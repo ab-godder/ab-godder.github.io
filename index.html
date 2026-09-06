@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Berkeley Dining Menus</title>
+<meta name="description" content="Today's menus across UC Berkeley dining halls and cafés." />
+<meta name="theme-color" content="#003262" />
+<link rel="stylesheet" href="style.css" />
+<link rel="icon" href="data:," />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <a class="brand-mark" href="https://dining.berkeley.edu/menus/" target="_blank" rel="noopener" title="Open dining.berkeley.edu">🐻</a>
+      <div class="brand-text">
+        <h1>Berkeley Dining</h1>
+        <p id="updated-at" class="updated-at">Loading menus…</p>
+      </div>
+    </div>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+
+  <nav class="date-tabs" id="date-tabs" aria-label="Choose date"></nav>
+</header>
+
+<main class="page">
+  <div class="content">
+    <section class="controls">
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input id="search" type="search" placeholder="Search dishes, e.g. tofu, ramen…" autocomplete="off" />
+        <label class="all-days-toggle" title="Search every day, not just the selected one">
+          <input type="checkbox" id="search-all-days" />
+          <span class="switch"><span class="knob"></span></span>
+          <span class="toggle-label">All days</span>
+        </label>
+      </div>
+    </section>
+
+    <div id="empty-state" class="empty-state" hidden>No dishes match your filters right now.</div>
+
+    <section id="locations" class="locations"></section>
+  </div>
+
+  <aside class="filters-aside" aria-label="Dietary and allergen filters">
+    <p class="filters-aside-title">Dietary &amp; allergens</p>
+    <div class="filter-row" id="filter-row-include"></div>
+    <div class="filter-row filter-row-exclude" id="filter-row-exclude"></div>
+  </aside>
+</main>
+
+<div class="fab-row">
+  <button id="scroll-top" class="fab" type="button" title="Back to top" aria-label="Back to top" hidden>↑</button>
+</div>
+
+<footer class="site-footer">
+  <p>Data sourced from <a href="https://dining.berkeley.edu/menus/" target="_blank" rel="noopener">dining.berkeley.edu</a>. Menus subject to change — check on-site signage for allergen accuracy.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
