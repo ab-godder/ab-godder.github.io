@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T07:30:26-07:00",
+ "generated_at": "2026-10-21T12:18:46-07:00",
  "dates": [
   {
    "date": "20261020",
@@ -10914,13 +10914,13 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Beef Chili Colorado",
+           "name": "Kosher Sauteed Ground Beef",
            "tags": [
             "kosher"
            ],
            "icons": [
             "Kosher",
-            "High Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -10944,13 +10944,23 @@
            ]
           },
           {
-           "name": "Ginger Burmese Salad",
+           "name": "Marinated Cucumber and Tomato",
            "tags": [
-            "sesame",
+            "vegan-option",
+            "kosher"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "White Corn Tortillas",
+           "tags": [
             "vegan-option"
            ],
            "icons": [
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11001,7 +11011,7 @@
            ]
           },
           {
-           "name": "Asparagus",
+           "name": "Caribbean Vegetable Blend",
            "tags": [
             "vegan-option"
            ],
@@ -11011,20 +11021,24 @@
            ]
           },
           {
-           "name": "Dinner Rolls",
+           "name": "Hawaiian Dinner Roll",
            "tags": [
             "milk",
             "egg",
             "wheat",
+            "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Egg",
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -12868,20 +12882,6 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Orechiette Pasta",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Gluten Free Penne Pasta",
            "tags": [
             "vegan-option"
@@ -12923,6 +12923,20 @@
           },
           {
            "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Farfalle Pasta",
            "tags": [
             "wheat",
             "gluten",
@@ -13348,10 +13362,27 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Chocolate Sheet Cake",
+           "name": "Lemon Cream Shortcake",
            "tags": [
             "milk",
             "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Coconut Cream Pie",
+           "tags": [
+            "milk",
             "wheat",
             "soybeans",
             "gluten",
@@ -13360,7 +13391,6 @@
            ],
            "icons": [
             "Milk",
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
@@ -13370,25 +13400,7 @@
            ]
           },
           {
-           "name": "Key Lime Pie",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Lemon Sugar Cookies",
+           "name": "Vegan Oatmeal Raisin Cookie",
            "tags": [
             "wheat",
             "gluten",
@@ -14119,13 +14131,13 @@
            ]
           },
           {
-           "name": "Andouille Sausage",
+           "name": "Turkey Sausage Patty",
            "tags": [
-            "pork"
+            "soybeans"
            ],
            "icons": [
-            "Pork",
-            "High Carbon Footprint"
+            "Soybeans",
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -14613,16 +14625,6 @@
             "Soybeans",
             "Gluten",
             "Sesame",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Waffle-Cut Sweet Potato Fries",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -16413,6 +16415,50 @@
            ]
           }
          ]
+        },
+        {
+         "name": "While It Last Chef's Table",
+         "items": [
+          {
+           "name": "Pork Linguica Sausage",
+           "tags": [
+            "milk",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey Sausage Link",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Griddled Pork Ham",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pork Sausage Patty",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       },
@@ -17477,7 +17523,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18710,7 +18756,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19370,7 +19416,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19909,7 +19955,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -20957,13 +21003,13 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Chipotle Turkey Breast",
+           "name": "Kosher Beef Chili Colorado",
            "tags": [
             "kosher"
            ],
            "icons": [
             "Kosher",
-            "Medium Carbon Footprint"
+            "High Carbon Footprint"
            ]
           },
           {
@@ -34336,43 +34382,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Chile Verde Breakfast Casserole",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Chilaquiles",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Medium Carbon Footprint"
            ]
           }
          ]
