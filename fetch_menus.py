@@ -1,7 +1,8 @@
 """
 Regenerates data/menus.json from UC Berkeley Dining's public menu backend
 (https://dining.berkeley.edu/menus/). Run this daily to keep the static
-site's data fresh:
+site's data fresh (the GitHub Actions workflow in
+.github/workflows/update-menus.yml does this automatically):
 
     python fetch_menus.py
 
@@ -15,11 +16,13 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 AJAX_URL = "https://dining.berkeley.edu/wp-admin/admin-ajax.php"
 OUT_PATH = Path(__file__).parent / "data" / "menus.json"
 DAY_OFFSETS = range(-1, 7)  # Yesterday .. +6 days, matches the site's own date picker
 EXCLUDED_LOCATIONS = {"Bear Market", "Cub Market"}  # convenience stores, no real menu data
+TZ = ZoneInfo("America/Los_Angeles")  # Berkeley time, so "today" is right on UTC CI runners
 
 
 def fetch_date_html(date_str: str) -> str:
@@ -98,7 +101,7 @@ def date_label(d: datetime, today: datetime) -> str:
 
 
 def main():
-    today = datetime.now()
+    today = datetime.now(TZ)
     dates_meta = []
     by_date = {}
 
@@ -125,7 +128,7 @@ def main():
         time.sleep(0.4)
 
     output = {
-        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "generated_at": datetime.now(TZ).isoformat(timespec="seconds"),
         "dates": dates_meta,
         "by_date": by_date,
     }

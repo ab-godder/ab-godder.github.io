@@ -103,6 +103,62 @@
     }
   }
 
+  // All date math is done in Berkeley time, regardless of the viewer's zone.
+  var TZ = "America/Los_Angeles";
+
+  function pacificNow() {
+    var parts = {};
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", hourCycle: "h23"
+    }).formatToParts(new Date()).forEach(function (p) { parts[p.type] = p.value; });
+    return {
+      date: parts.year + parts.month + parts.day,
+      minutes: parseInt(parts.hour, 10) * 60 + parseInt(parts.minute, 10)
+    };
+  }
+
+  function dayDiff(a, b) {
+    function toUTC(s) { return Date.UTC(+s.slice(0, 4), +s.slice(4, 6) - 1, +s.slice(6, 8)); }
+    return Math.round((toUTC(a) - toUTC(b)) / 86400000);
+  }
+
+  // The labels baked into menus.json are relative to when it was generated,
+  // so recompute them against the current date.
+  function relabelDates(data) {
+    var today = pacificNow().date;
+    data.dates.forEach(function (d) {
+      var delta = dayDiff(d.date, today);
+      d.label = delta === -1 ? "Yesterday" : delta === 0 ? "Today" : delta === 1 ? "Tomorrow" : d.display;
+    });
+    var current = data.dates.filter(function (d) { return dayDiff(d.date, today) >= -1; });
+    if (current.length) data.dates = current;
+    return today;
+  }
+
+  function parseClock(s) {
+    var m = /(\d{1,2}):(\d{2})\s*([ap])\.?m\.?/i.exec(s);
+    if (!m) return null;
+    var h = parseInt(m[1], 10) % 12;
+    if (m[3].toLowerCase() === "p") h += 12;
+    return h * 60 + parseInt(m[2], 10);
+  }
+
+  // Open/closed from the posted hours, since the scraped status is a snapshot.
+  function liveStatus(loc, dateStr) {
+    if (!loc.hours.length) return "Closed";
+    var now = pacificNow();
+    if (dateStr !== now.date) return "";
+    var open = loc.hours.some(function (h) {
+      var range = h.split(/\s+-\s+/);
+      var start = parseClock(range[0] || ""), end = parseClock(range[1] || "");
+      if (start === null || end === null) return false;
+      return end > start ? now.minutes >= start && now.minutes < end
+                         : now.minutes >= start || now.minutes < end;
+    });
+    return open ? "Now Open" : "Now Closed";
+  }
+
   function renderDateTabs() {
     els.dateTabs.innerHTML = "";
     state.data.dates.forEach(function (d) {
@@ -221,7 +277,7 @@
     return { el: wrap, anyVisible: anyVisible };
   }
 
-  function buildLocationCard(loc) {
+  function buildLocationCard(loc, dateStr) {
     var card = document.createElement("article");
     card.className = "loc-card";
 
@@ -244,11 +300,13 @@
     }
     header.appendChild(left);
 
-    var pill = document.createElement("span");
-    var isOpen = /open/i.test(loc.status);
-    pill.className = "status-pill " + (isOpen ? "open" : "closed");
-    pill.textContent = loc.status || "";
-    header.appendChild(pill);
+    var status = liveStatus(loc, dateStr);
+    if (status) {
+      var pill = document.createElement("span");
+      pill.className = "status-pill " + (/open/i.test(status) ? "open" : "closed");
+      pill.textContent = status;
+      header.appendChild(pill);
+    }
     card.appendChild(header);
 
     if (!loc.meals.length) {
@@ -323,7 +381,7 @@
       if (!dateBlock) return;
 
       var cards = dateBlock.locations
-        .map(buildLocationCard)
+        .map(function (loc) { return buildLocationCard(loc, dateStr); })
         .filter(function (built) { return built.anyVisible; });
 
       if (cards.length === 0) return;
@@ -356,21 +414,55 @@
     renderLocations();
   }
 
-  fetch("data/menus.json", { cache: "no-store" })
-    .then(function (r) {
-      if (!r.ok) throw new Error("HTTP " + r.status);
-      return r.json();
-    })
-    .then(function (data) {
-      state.data = data;
-      var todayEntry = data.dates.find(function (d) { return d.label === "Today"; });
-      state.date = todayEntry ? todayEntry.date : (data.dates[0] && data.dates[0].date);
-      els.updatedAt.textContent = fmtUpdated(data.generated_at);
-      loadPrefs();
-      renderFilterRow();
-      els.searchAllDays.checked = state.searchAllDays;
+  var loadedDay = null;
+  var loadedAt = 0;
+
+  function load() {
+    return fetch("data/menus.json", { cache: "no-store" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        var prevToday = loadedDay;
+        var today = relabelDates(data);
+        state.data = data;
+        loadedDay = today;
+        loadedAt = Date.now();
+        // Keep the user's picked date across refreshes, unless the day rolled over.
+        var keep = state.date && prevToday === today &&
+          data.dates.some(function (d) { return d.date === state.date; });
+        if (!keep) {
+          var todayEntry = data.dates.find(function (d) { return d.date === today; });
+          var upcoming = data.dates.find(function (d) { return d.date >= today; });
+          var fallback = upcoming || data.dates[data.dates.length - 1];
+          state.date = todayEntry ? todayEntry.date : (fallback && fallback.date);
+        }
+        els.updatedAt.textContent = fmtUpdated(data.generated_at);
+        render();
+      });
+  }
+
+  loadPrefs();
+  renderFilterRow();
+  els.searchAllDays.checked = state.searchAllDays;
+
+  // Tabs left open (or restored from the background) pick up new data and
+  // roll "Today" over at midnight without a manual reload.
+  function refreshIfStale() {
+    if (!state.data) return;
+    if (pacificNow().date !== loadedDay || Date.now() - loadedAt > 30 * 60 * 1000) {
+      load().catch(function () { /* keep showing what we have */ });
+    } else {
       render();
-    })
+    }
+  }
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "visible") refreshIfStale();
+  });
+  setInterval(refreshIfStale, 5 * 60 * 1000);
+
+  load()
     .catch(function (err) {
       els.updatedAt.textContent = "Could not load menu data";
       els.locations.innerHTML = "<p style='color:var(--text-muted)'>Failed to load data/menus.json (" + err.message + "). If you opened this file directly, serve it over HTTP instead (e.g. <code>python -m http.server</code>) since browsers block local file fetches.</p>";
