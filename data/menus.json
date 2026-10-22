@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T12:18:46-07:00",
+ "generated_at": "2026-10-21T17:01:20-07:00",
  "dates": [
   {
    "date": "20261020",
@@ -10897,16 +10897,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Roasted Eggplant",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -11613,7 +11603,7 @@
            ]
           },
           {
-           "name": "Roasted Sweet Potato",
+           "name": "Garlic Green Beans",
            "tags": [
             "vegan-option"
            ],
@@ -11623,7 +11613,7 @@
            ]
           },
           {
-           "name": "Garlic Green Beans",
+           "name": "Sauteed Corn Onion and Squash",
            "tags": [
             "vegan-option"
            ],
@@ -14632,6 +14622,25 @@
          ]
         },
         {
+         "name": "Pasta",
+         "items": [
+          {
+           "name": "Tuscan Bean Penne",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Allergen Friendly",
          "items": [
           {
@@ -15440,7 +15449,7 @@
            ]
           },
           {
-           "name": "Sweet Potato Fries",
+           "name": "Waffle-Cut Sweet Potato Fries",
            "tags": [
             "vegan-option"
            ],
@@ -16436,16 +16445,6 @@
            "tags": [],
            "icons": [
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Griddled Pork Ham",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "High Carbon Footprint"
            ]
           },
           {
@@ -18756,7 +18755,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19416,7 +19415,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -25635,16 +25634,6 @@
           },
           {
            "name": "Honey Balsamic Roasted Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Carrot with Cumin",
            "tags": [
             "vegan-option"
            ],
@@ -34617,59 +34606,25 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Pork Ramen Noodles",
+           "name": "Korean Style Fried Chicken",
            "tags": [
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
             "alcohol",
-            "sesame",
-            "pork"
+            "sesame"
            ],
            "icons": [
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Alcohol",
             "Sesame",
-            "Pork",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Vegetable Ramen",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Medium Grain Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Eggroll",
+           "name": "Tofu Mushroom Stir Fry",
            "tags": [
             "wheat",
             "soybeans",
@@ -34681,6 +34636,42 @@
             "Soybeans",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sweet Chili Roasted Brussels Sprouts",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kimchi Chicken Potsticker",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Low Carbon Footprint"
            ]
           }
@@ -34690,59 +34681,37 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Beef Burger with 1000 Island",
+           "name": "Chicken Salad Sandwich",
            "tags": [
-            "milk",
             "egg",
             "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
+            "gluten"
            ],
            "icons": [
-            "Milk",
             "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Sesame",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Vegetarian Malibu Oski Burger",
+           "name": "Vegan Chicken Salad Sandwich",
            "tags": [
-            "milk",
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sweet Potato Fries",
-           "tags": [
             "vegan-option"
            ],
            "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Carmalized Onions",
+           "name": "Housemade Potato Chips",
            "tags": [
             "vegan-option"
            ],
@@ -35426,7 +35395,7 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Red Velvet Cake",
+           "name": "Custard Pie",
            "tags": [
             "milk",
             "egg",
@@ -35446,7 +35415,7 @@
            ]
           },
           {
-           "name": "Peach Pie",
+           "name": "Fruits of the Forest Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -35462,7 +35431,7 @@
            ]
           },
           {
-           "name": "Chocolate Chunk Brownies",
+           "name": "Chocolate Sheet Cake",
            "tags": [
             "milk",
             "egg",
@@ -35577,59 +35546,25 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Pork Ramen Noodles",
+           "name": "Korean Style Fried Chicken",
            "tags": [
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
             "alcohol",
-            "sesame",
-            "pork"
+            "sesame"
            ],
            "icons": [
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Alcohol",
             "Sesame",
-            "Pork",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Vegetable Ramen",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Medium Grain Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Eggroll",
+           "name": "Tofu Mushroom Stir Fry",
            "tags": [
             "wheat",
             "soybeans",
@@ -35641,6 +35576,42 @@
             "Soybeans",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sweet Chili Roasted Brussels Sprouts",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kimchi Chicken Potsticker",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Low Carbon Footprint"
            ]
           }
@@ -35650,27 +35621,21 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Pollock Sandwich",
+           "name": "Chicken Salad Sandwich",
            "tags": [
             "egg",
-            "fish",
             "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
+            "gluten"
            ],
            "icons": [
             "Egg",
-            "Fish",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Sesame",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Vegan Bombay Sandwich",
+           "name": "Vegan Chicken Salad Sandwich",
            "tags": [
             "wheat",
             "soybeans",
@@ -36370,7 +36335,7 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Red Velvet Cake",
+           "name": "Custard Pie",
            "tags": [
             "milk",
             "egg",
@@ -36390,7 +36355,7 @@
            ]
           },
           {
-           "name": "Peach Pie",
+           "name": "Fruits of the Forest Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -36406,7 +36371,7 @@
            ]
           },
           {
-           "name": "Chocolate Chunk Brownies",
+           "name": "Chocolate Sheet Cake",
            "tags": [
             "milk",
             "egg",
@@ -47439,13 +47404,17 @@
            ]
           },
           {
-           "name": "Fried Orange Tofu",
+           "name": "Fried Teriyaki Tofu",
            "tags": [
             "soybeans",
+            "alcohol",
+            "sesame",
             "vegan-option"
            ],
            "icons": [
             "Soybeans",
+            "Alcohol",
+            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -52271,16 +52240,6 @@
            ]
           },
           {
-           "name": "Kosher Mashed Potato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Caribbean Vegetable Blend",
            "tags": [
             "vegan-option"
@@ -52721,24 +52680,6 @@
            "icons": [
             "Halal",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Halal Catfish PoBoy Sandwich",
-           "tags": [
-            "egg",
-            "fish",
-            "wheat",
-            "gluten",
-            "halal"
-           ],
-           "icons": [
-            "Egg",
-            "Fish",
-            "Wheat",
-            "Gluten",
-            "Halal",
-            "Medium Carbon Footprint"
            ]
           },
           {
