@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T04:55:26-07:00",
+ "generated_at": "2026-10-22T10:12:42-07:00",
  "dates": [
   {
    "date": "20261021",
@@ -10277,7 +10277,7 @@
            ]
           },
           {
-           "name": "Halal Beef Patty",
+           "name": "Halal Beef Sausage Link",
            "tags": [
             "soybeans",
             "halal"
@@ -10983,21 +10983,17 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Minestrone Soup",
+           "name": "Split Pea Soup",
            "tags": [
-            "wheat",
-            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Split Pea Soup",
+           "name": "Tuscan Mushroom Bean Soup",
            "tags": [
             "vegan-option"
            ],
@@ -15303,47 +15299,6 @@
            ]
           }
          ]
-        },
-        {
-         "name": "Pizza",
-         "items": [
-          {
-           "name": "Broccolini and Chili Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Hawaiian Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
         }
        ]
       },
@@ -18210,7 +18165,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18725,7 +18680,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19358,7 +19313,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19385,7 +19340,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19924,7 +19879,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -32076,14 +32031,33 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Lemon Thyme Baked Chicken",
-           "tags": [],
+           "name": "Chicken Enchiladas with Red Sauce",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
            "icons": [
-            "Medium Carbon Footprint"
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
            ]
           },
           {
-           "name": "Vegan Mediterranean \"Chicken\" Strips",
+           "name": "Seasoned Black Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Vegan Protein Red Sauce Enchilada",
            "tags": [
             "wheat",
             "soybeans",
@@ -32099,31 +32073,48 @@
            ]
           },
           {
-           "name": "Cilantro Lime Couscous",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal",
-            "kosher"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Kosher",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sauteed Carrot and Kale",
+           "name": "Mexican Rice",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Elote Steamed Corn",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Vegetable Quesadilla",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
