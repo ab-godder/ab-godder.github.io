@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T10:12:42-07:00",
+ "generated_at": "2026-10-22T14:37:41-07:00",
  "dates": [
   {
    "date": "20261021",
@@ -335,11 +335,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -347,11 +349,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -359,11 +363,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -2262,11 +2268,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -4078,11 +4086,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -4090,11 +4100,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -6045,11 +6057,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -6057,11 +6071,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -10199,7 +10215,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10480,11 +10496,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -10492,11 +10510,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -10504,11 +10524,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -10862,11 +10884,13 @@
            "name": "Creamy Primavera Sauce",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -11612,11 +11636,13 @@
            "name": "Creamy Primavera Sauce",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -12203,7 +12229,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -12431,11 +12457,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -12647,6 +12675,23 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Beef Bulgogi",
+           "tags": [
+            "soybeans",
+            "sesame"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -14081,28 +14126,6 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Carrot Cake",
-           "tags": [
-            "milk",
-            "egg",
-            "tree-nuts",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Tree Nuts",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Cherry Pie",
            "tags": [
             "wheat",
@@ -14119,7 +14142,7 @@
            ]
           },
           {
-           "name": "Chocolate Chunk Brownies",
+           "name": "Luscious Lemon Bar",
            "tags": [
             "milk",
             "egg",
@@ -14139,6 +14162,26 @@
             "Halal",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Custard Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         }
@@ -14149,7 +14192,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14316,11 +14359,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -14328,11 +14373,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -14695,24 +14742,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Breadsticks",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -15484,6 +15513,30 @@
          ]
         },
         {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Arborio Mushroom Risotto with Rice",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Seared Chicken Breast Cacciatore",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Pasta",
          "items": [
           {
@@ -16231,7 +16284,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16287,11 +16340,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -16299,11 +16354,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -16624,13 +16681,15 @@
          "name": "Deli Bar",
          "items": [
           {
-           "name": "Chicken Salad",
+           "name": "Housemade Hummus",
            "tags": [
-            "egg"
+            "sesame",
+            "vegan-option"
            ],
            "icons": [
-            "Egg",
-            "High Carbon Footprint"
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -17447,7 +17506,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -20603,11 +20662,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -20615,11 +20676,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -20627,11 +20690,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -22412,11 +22477,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -24166,11 +24233,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -24178,11 +24247,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -26175,11 +26246,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -26187,11 +26260,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -30581,11 +30656,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -30593,11 +30670,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -30605,11 +30684,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -33428,6 +33509,16 @@
            ]
           },
           {
+           "name": "Andouille Sausage",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "High Carbon Footprint"
+           ]
+          },
+          {
            "name": "Vegan Breakfast \"Sausage\" Patty",
            "tags": [
             "vegan-option"
@@ -33456,16 +33547,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Apple Sausage",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
             "Low Carbon Footprint"
            ]
           },
@@ -33565,7 +33646,7 @@
            ]
           },
           {
-           "name": "Caribbean Vegetable Blend",
+           "name": "Steamed Peas and Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -33581,6 +33662,26 @@
          "items": [
           {
            "name": "Belgian Waffle",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple Filled Pancake",
            "tags": [
             "milk",
             "egg",
@@ -34117,42 +34218,24 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Assorted Mini Muffins",
+           "name": "Raspberry Mini Beignet",
            "tags": [
             "milk",
             "egg",
-            "tree-nuts",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "sesame",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Egg",
-            "Tree Nuts",
             "Wheat",
             "Gluten",
+            "Sesame",
             "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mini Assorted Danish",
-           "tags": [
-            "milk",
-            "egg",
-            "tree-nuts",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Tree Nuts",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -34173,6 +34256,26 @@
             "Tree Nuts",
             "Wheat",
             "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Assorted Mini Muffins",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
             "Gluten",
             "Vegetarian Option",
             "Low Carbon Footprint"
@@ -34249,13 +34352,17 @@
             "milk",
             "milk",
             "vegetarian-option",
-            "vegetarian-option"
+            "halal",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -34265,13 +34372,17 @@
             "milk",
             "milk",
             "vegetarian-option",
-            "vegetarian-option"
+            "halal",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -34333,13 +34444,17 @@
             "milk",
             "milk",
             "vegetarian-option",
-            "vegetarian-option"
+            "halal",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -34349,13 +34464,17 @@
             "milk",
             "milk",
             "vegetarian-option",
-            "vegetarian-option"
+            "halal",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -34432,6 +34551,13 @@
            ]
           },
           {
+           "name": "Chicken Thigh Tinga",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
            "name": "Soyrizo with Peppers and Onion",
            "tags": [
             "soybeans",
@@ -34480,6 +34606,16 @@
            ]
           },
           {
+           "name": "White Corn Tortillas",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Mexican Rice",
            "tags": [
             "vegan-option"
@@ -34505,7 +34641,7 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Orechiette Pasta",
+           "name": "Rotini Pasta",
            "tags": [
             "wheat",
             "gluten",
@@ -34515,22 +34651,6 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Pesto Alfredo Sauce",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           },
@@ -34542,6 +34662,18 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Shrimp Pesto Alfredo Sauce",
+           "tags": [
+            "milk",
+            "shellfish"
+           ],
+           "icons": [
+            "Milk",
+            "Shellfish",
+            "High Carbon Footprint"
            ]
           },
           {
@@ -35158,15 +35290,17 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Peach Pie",
+           "name": "Vegan Chocolate Chip Cookie",
            "tags": [
             "wheat",
+            "soybeans",
             "gluten",
             "vegan-option",
             "halal"
            ],
            "icons": [
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Halal",
@@ -35174,7 +35308,27 @@
            ]
           },
           {
-           "name": "Chocolate Hazelnut Beignets",
+           "name": "Pecan Pie",
+           "tags": [
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Carrot Cake",
            "tags": [
             "milk",
             "egg",
@@ -35182,8 +35336,7 @@
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option",
-            "halal"
+            "vegetarian-option"
            ],
            "icons": [
             "Milk",
@@ -35193,23 +35346,6 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Oatmeal Raisin Cookie",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -36513,11 +36649,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -36525,11 +36663,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -36537,11 +36677,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -38850,11 +38992,13 @@
            "name": "Creamy Primavera Sauce",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -39312,6 +39456,13 @@
            ]
           },
           {
+           "name": "Turkey Sausage Link",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Soyrizo with Peppers and Onion",
            "tags": [
             "soybeans",
@@ -39321,16 +39472,6 @@
             "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Pork Sausage Patty",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "Medium Carbon Footprint"
            ]
           },
           {
@@ -39629,12 +39770,12 @@
            ]
           },
           {
-           "name": "Grilled Eggplant",
+           "name": "Honey Glazed Carrots",
            "tags": [
-            "vegan-option"
+            "vegetarian-option"
            ],
            "icons": [
-            "Vegan Option",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           },
@@ -39680,7 +39821,7 @@
            ]
           },
           {
-           "name": "Tomato Bisque Soup",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
             "vegetarian-option"
@@ -39688,7 +39829,7 @@
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Low Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -40076,12 +40217,13 @@
            ]
           },
           {
-           "name": "Mini Assorted Danish",
+           "name": "Assorted Mini Filled Croissant",
            "tags": [
             "milk",
             "egg",
             "tree-nuts",
             "wheat",
+            "soybeans",
             "gluten",
             "vegetarian-option"
            ],
@@ -40090,8 +40232,51 @@
             "Egg",
             "Tree Nuts",
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Matcha Filled Mini Beignet",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Boston Cream Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -40112,19 +40297,19 @@
            ]
           },
           {
-           "name": "Banana Creme Pie",
+           "name": "Strawberry Shortcake",
            "tags": [
             "milk",
+            "egg",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
            ],
            "icons": [
             "Milk",
+            "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -40140,11 +40325,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -40152,11 +40339,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -40310,7 +40499,7 @@
            ]
           },
           {
-           "name": "Penne Pasta",
+           "name": "Tuscan Bean Penne",
            "tags": [
             "wheat",
             "gluten",
@@ -40324,7 +40513,7 @@
            ]
           },
           {
-           "name": "Marinara Sauce",
+           "name": "Honey Balsamic Roasted Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -40334,17 +40523,7 @@
            ]
           },
           {
-           "name": "Steamed Broccolini with Lemon",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Assorted Dinner Rolls",
+           "name": "Bread Stick Focaccia",
            "tags": [
             "wheat",
             "gluten",
@@ -40404,6 +40583,16 @@
           },
           {
            "name": "Squash Medley",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Peas",
            "tags": [
             "vegan-option"
            ],
@@ -40955,7 +41144,7 @@
            ]
           },
           {
-           "name": "Chocolate Chunk Brownies",
+           "name": "Chocolate Sheet Cake",
            "tags": [
             "milk",
             "egg",
@@ -42323,11 +42512,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -42335,11 +42526,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -42347,11 +42540,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -44227,11 +44422,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -45958,11 +46155,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -45970,11 +46169,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -47913,20 +48114,18 @@
            ]
           },
           {
-           "name": "Four Cheese Andouille Pizza",
+           "name": "Greek Chicken Pizza",
            "tags": [
             "milk",
             "wheat",
             "soybeans",
-            "gluten",
-            "pork"
+            "gluten"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -47993,11 +48192,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -48005,11 +48206,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -52396,11 +52599,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -52408,11 +52613,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -52420,11 +52627,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -54310,11 +54519,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -56048,11 +56259,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -56060,11 +56273,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -57953,11 +58168,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -57965,11 +58182,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -62278,11 +62497,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -62290,11 +62511,13 @@
            "name": "Sun Dried Tomato Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -62302,11 +62525,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -64168,11 +64393,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -65928,11 +66155,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -65940,11 +66169,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -67911,11 +68142,13 @@
            "name": "Chive Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -67923,11 +68156,13 @@
            "name": "Whipped Cream Cheese",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
