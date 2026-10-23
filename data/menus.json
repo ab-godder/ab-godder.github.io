@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T04:41:34-07:00",
+ "generated_at": "2026-10-23T10:09:37-07:00",
  "dates": [
   {
    "date": "20261022",
@@ -10268,43 +10268,7 @@
            ]
           },
           {
-           "name": "Mushroom and Kale Eggs Scramble",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Potato Wedges",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Quiche",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Italian \"Sausage\"",
            "tags": [
             "vegan-option"
            ],
@@ -10320,6 +10284,50 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Beef Patty",
+           "tags": [
+            "soybeans",
+            "halal"
+           ],
+           "icons": [
+            "Soybeans",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Breakfast \"Sausage\" Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mung Bean Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mushroom Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -10902,16 +10910,6 @@
          "name": "Allergen Friendly",
          "items": [
           {
-           "name": "Halal Chicken Breast",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Kidney Beans",
            "tags": [
             "vegan-option"
@@ -10942,7 +10940,7 @@
            ]
           },
           {
-           "name": "Baked Diced Sweet Potato",
+           "name": "Sauteed Mushroom",
            "tags": [
             "vegan-option"
            ],
@@ -10952,7 +10950,17 @@
            ]
           },
           {
-           "name": "Sauteed Mushroom",
+           "name": "Halal Ground Beef",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Potato",
            "tags": [
             "vegan-option"
            ],
@@ -12200,6 +12208,13 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Turkey Sausage Link",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -12503,11 +12518,17 @@
            "tags": [
             "wheat",
             "gluten",
+            "wheat",
+            "gluten",
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
             "Gluten",
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -12687,22 +12708,6 @@
            ]
           },
           {
-           "name": "Beef Meatball Marinara",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Steamed Broccoli Cauliflower and Carrots",
            "tags": [
             "vegan-option"
@@ -12723,15 +12728,31 @@
            ]
           },
           {
-           "name": "Garlic Naan",
+           "name": "Arrabiata Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Assorted Dinner Rolls",
            "tags": [
             "wheat",
             "gluten",
+            "wheat",
+            "gluten",
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
             "Gluten",
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -18030,7 +18051,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18545,7 +18566,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19178,7 +19199,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19205,7 +19226,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19744,7 +19765,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
