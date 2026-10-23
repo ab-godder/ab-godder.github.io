@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T10:09:37-07:00",
+ "generated_at": "2026-10-23T14:26:16-07:00",
  "dates": [
   {
    "date": "20261022",
@@ -2772,11 +2772,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -3643,11 +3645,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -7406,11 +7410,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -7458,11 +7464,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -9764,11 +9772,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -10242,7 +10252,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10893,7 +10903,8 @@
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
@@ -10901,6 +10912,7 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -10978,11 +10990,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -11568,7 +11582,8 @@
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
@@ -11576,6 +11591,7 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -11663,11 +11679,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -12118,7 +12136,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -12536,6 +12554,21 @@
          ]
         },
         {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Lemongrass Roasted Chicken",
+           "tags": [
+            "fish"
+           ],
+           "icons": [
+            "Fish",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Griddle/Grill",
          "items": [
           {
@@ -12766,11 +12799,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -13235,6 +13270,26 @@
             "Vegetarian Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Custard Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         }
@@ -13587,11 +13642,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -13941,7 +13998,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14218,12 +14275,18 @@
            ]
           },
           {
-           "name": "Roasted Red Potatoes with Garlic",
+           "name": "Mashed Yukon Potato",
            "tags": [
-            "vegan-option"
+            "milk",
+            "vegetarian-option",
+            "halal",
+            "kosher"
            ],
            "icons": [
-            "Vegan Option",
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Kosher",
             "Low Carbon Footprint"
            ]
           },
@@ -14248,15 +14311,11 @@
            ]
           },
           {
-           "name": "Charbroiled Cabbage",
+           "name": "Garlic Roasted Broccoli",
            "tags": [
-            "soybeans",
-            "sesame",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -14368,16 +14427,14 @@
            ]
           },
           {
-           "name": "Vegan Chicken Salad Sandwich",
+           "name": "Vegan Chicken Tenders",
            "tags": [
             "wheat",
-            "soybeans",
             "gluten",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
@@ -14390,71 +14447,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Pasta",
-         "items": [
-          {
-           "name": "Rigatoni Pasta",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Alfredo Sauce",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Root Veggies",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "French Dinner Roll",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "kosher"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Kosher",
             "Low Carbon Footprint"
            ]
           }
@@ -14549,18 +14541,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Broccoli Cheddar Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Tuscan Mushroom Bean Soup",
            "tags": [
             "vegan-option"
@@ -14568,6 +14548,13 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Tortilla Soup",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15170,16 +15157,6 @@
            ]
           },
           {
-           "name": "Roasted Asparagus",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Asparagus Mushroom Pepper and Zucchini",
            "tags": [
             "vegan-option"
@@ -15205,6 +15182,16 @@
           },
           {
            "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Broccoli",
            "tags": [
             "vegan-option"
            ],
@@ -15502,11 +15489,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -16074,7 +16063,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16499,27 +16488,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Deli Bar",
-         "items": [
-          {
-           "name": "Kosher Egg Salad",
-           "tags": [
-            "egg",
-            "alcohol",
-            "vegetarian-option",
-            "kosher"
-           ],
-           "icons": [
-            "Egg",
-            "Alcohol",
-            "Vegetarian Option",
-            "Kosher",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -17317,7 +17285,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17360,11 +17328,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -17412,11 +17382,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -19734,11 +19706,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -24731,11 +24705,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -26555,11 +26531,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -27610,11 +27588,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -28281,11 +28261,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -29022,11 +29004,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -29783,11 +29767,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -30601,11 +30587,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -32922,7 +32910,8 @@
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
@@ -32930,6 +32919,7 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -33603,7 +33593,8 @@
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
@@ -33611,6 +33602,7 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -39501,11 +39493,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -39553,11 +39547,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -41869,11 +41865,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -44909,11 +44907,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -45688,11 +45688,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -49405,11 +49407,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -49457,11 +49461,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -51763,11 +51769,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -53039,11 +53047,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -53714,11 +53724,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -56541,11 +56553,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -57467,11 +57481,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -59301,11 +59317,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -59353,11 +59371,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -61659,11 +61679,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -64711,11 +64733,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -65473,11 +65497,13 @@
            "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -66432,11 +66458,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -67416,11 +67444,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -68964,11 +68994,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -69262,11 +69294,13 @@
            "name": "New England Clam Chowder",
            "tags": [
             "milk",
-            "shellfish"
+            "shellfish",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Shellfish",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -69314,11 +69348,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -71620,11 +71656,13 @@
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
