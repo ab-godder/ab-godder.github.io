@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:37:41-07:00",
+ "generated_at": "2026-10-22T21:52:05-07:00",
  "dates": [
   {
    "date": "20261021",
@@ -10215,7 +10215,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11478,7 +11478,6 @@
            "name": "Halal Beef Stroganoff",
            "tags": [
             "milk",
-            "egg",
             "fish",
             "wheat",
             "soybeans",
@@ -11487,7 +11486,6 @@
            ],
            "icons": [
             "Milk",
-            "Egg",
             "Fish",
             "Wheat",
             "Soybeans",
@@ -11502,13 +11500,15 @@
             "milk",
             "wheat",
             "soybeans",
-            "gluten"
+            "gluten",
+            "vegetarian-option"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Soybeans",
             "Gluten",
+            "Vegetarian Option",
             "Medium Carbon Footprint"
            ]
           },
@@ -11519,8 +11519,7 @@
             "wheat",
             "gluten",
             "vegetarian-option",
-            "halal",
-            "kosher"
+            "halal"
            ],
            "icons": [
             "Egg",
@@ -11528,18 +11527,15 @@
             "Gluten",
             "Vegetarian Option",
             "Halal",
-            "Kosher",
             "Low Carbon Footprint"
            ]
           },
           {
            "name": "Steamed Carrots and Green Beans",
            "tags": [
-            "soybeans",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11594,7 +11590,7 @@
            ]
           },
           {
-           "name": "Steamed Corn",
+           "name": "Vegan Coleslaw",
            "tags": [
             "vegan-option"
            ],
@@ -11604,7 +11600,7 @@
            ]
           },
           {
-           "name": "Vegan Coleslaw",
+           "name": "Steamed Peas and Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -11694,16 +11690,6 @@
          "name": "Allergen Friendly",
          "items": [
           {
-           "name": "Halal Chicken Thigh",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Chickpea Noodle Soup",
            "tags": [
             "vegan-option"
@@ -11751,6 +11737,16 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Ground Beef",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -12229,7 +12225,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14192,7 +14188,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14761,15 +14757,17 @@
            ]
           },
           {
-           "name": "Tomato Bisque Soup",
+           "name": "Grandma Mary's Chicken Soup",
            "tags": [
-            "milk",
-            "vegetarian-option"
+            "egg",
+            "wheat",
+            "gluten"
            ],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15533,6 +15531,45 @@
            "icons": [
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Halal North African-style Roasted Chicken",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "African Chicken & Kale Stew",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spinach and Onion Tunisian Stew",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jeweled Basmati Rice",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -15668,15 +15705,17 @@
            ]
           },
           {
-           "name": "Tomato Bisque Soup",
+           "name": "Grandma Mary's Chicken Soup",
            "tags": [
-            "milk",
-            "vegetarian-option"
+            "egg",
+            "wheat",
+            "gluten"
            ],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -16284,7 +16323,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -17168,21 +17207,6 @@
          ]
         },
         {
-         "name": "Deli Bar",
-         "items": [
-          {
-           "name": "Chicken Salad",
-           "tags": [
-            "egg"
-           ],
-           "icons": [
-            "Egg",
-            "High Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Dessert",
          "items": [
           {
@@ -17506,7 +17530,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18224,7 +18248,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18739,7 +18763,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19372,7 +19396,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19399,7 +19423,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19938,7 +19962,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -20991,11 +21015,13 @@
            "name": "Aurora Sauce",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -21664,11 +21690,13 @@
            "name": "Aurora Sauce",
            "tags": [
             "milk",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -30543,9 +30571,12 @@
          "items": [
           {
            "name": "Baked Chicken Breast",
-           "tags": [],
+           "tags": [
+            "halal"
+           ],
            "icons": [
-            "Low Carbon Footprint"
+            "Halal",
+            "High Carbon Footprint"
            ]
           },
           {
@@ -33519,6 +33550,18 @@
            ]
           },
           {
+           "name": "Pork Linguica Sausage",
+           "tags": [
+            "milk",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
            "name": "Vegan Breakfast \"Sausage\" Patty",
            "tags": [
             "vegan-option"
@@ -34543,11 +34586,17 @@
           {
            "name": "Chicken Enchiladas with Red Sauce",
            "tags": [
-            "milk"
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
            ],
            "icons": [
             "Milk",
-            "Medium Carbon Footprint"
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
            ]
           },
           {
@@ -34606,7 +34655,7 @@
            ]
           },
           {
-           "name": "White Corn Tortillas",
+           "name": "Sauteed Pinto Beans with Green Chili",
            "tags": [
             "vegan-option"
            ],
@@ -34626,7 +34675,51 @@
            ]
           },
           {
-           "name": "Refried Beans",
+           "name": "White Corn Tortillas",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sour Cream",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hot and Sour Soup",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mild Salsa",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tomatillo Avocado Verde Salad",
            "tags": [
             "vegan-option"
            ],
@@ -40197,26 +40290,6 @@
            ]
           },
           {
-           "name": "Assorted Mini Muffins",
-           "tags": [
-            "milk",
-            "egg",
-            "tree-nuts",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Tree Nuts",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Assorted Mini Filled Croissant",
            "tags": [
             "milk",
@@ -40476,6 +40549,34 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Vegetable Eggroll",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sawsawan",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -40631,7 +40732,7 @@
            ]
           },
           {
-           "name": "Tomato Bisque Soup",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
             "vegetarian-option"
@@ -40639,7 +40740,7 @@
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Low Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -42878,11 +42979,9 @@
           {
            "name": "Steamed Carrots and Green Beans",
            "tags": [
-            "soybeans",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -45983,16 +46082,6 @@
            ]
           },
           {
-           "name": "Baked Pork Bacon",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Scrambled Egg",
            "tags": [
             "vegan-option"
@@ -46055,61 +46144,26 @@
          ]
         },
         {
-         "name": "Breakfast Special",
+         "name": "Griddle/Grill",
          "items": [
           {
-           "name": "Egg and Cheese English Muffin Sandwich",
+           "name": "Baked Blueberry French Toast Casserole",
            "tags": [
             "milk",
             "egg",
             "wheat",
-            "soybeans",
             "gluten",
+            "alcohol",
             "vegetarian-option"
            ],
            "icons": [
             "Milk",
             "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
+            "Alcohol",
             "Vegetarian Option",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Gluten Free Vegan Egg and Cheese Sandwich",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Griddle/Grill",
-         "items": [
-          {
-           "name": "Blueberry Pancakes",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -46311,6 +46365,36 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Edamame Potsticker",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sweet and Sour Sauce",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -46374,20 +46458,22 @@
            ]
           },
           {
-           "name": "Edamame Potsticker",
+           "name": "Pork Char Siu Bao",
            "tags": [
+            "shellfish",
             "wheat",
             "soybeans",
             "gluten",
             "sesame",
-            "vegan-option"
+            "pork"
            ],
            "icons": [
+            "Shellfish",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Sesame",
-            "Vegan Option",
+            "Pork",
             "Low Carbon Footprint"
            ]
           }
@@ -46433,7 +46519,7 @@
            ]
           },
           {
-           "name": "Asparagus",
+           "name": "Vegetable Medley",
            "tags": [
             "vegan-option"
            ],
@@ -47116,27 +47202,39 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Strawberry Shortcake",
+           "name": "Blueberry Pie",
            "tags": [
-            "milk",
-            "egg",
             "wheat",
             "gluten",
-            "vegetarian-option",
-            "halal"
+            "vegan-option",
+            "kosher"
            ],
            "icons": [
-            "Milk",
-            "Egg",
             "Wheat",
             "Gluten",
-            "Vegetarian Option",
-            "Halal",
+            "Vegan Option",
+            "Kosher",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Boston Cream Pie",
+           "name": "French Cream Cheesecake",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Cereal Milk Cake",
            "tags": [
             "milk",
             "egg",
@@ -47153,22 +47251,6 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Lemon Sugar Cookies",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -47197,20 +47279,18 @@
            ]
           },
           {
-           "name": "Four Cheese Andouille Pizza",
+           "name": "Greek Chicken Pizza",
            "tags": [
             "milk",
             "wheat",
             "soybeans",
-            "gluten",
-            "pork"
+            "gluten"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -47268,7 +47348,7 @@
            ]
           },
           {
-           "name": "Grilled Jalapeno",
+           "name": "Sauteed Corn Pepper Mexicali",
            "tags": [
             "vegan-option"
            ],
@@ -47307,6 +47387,62 @@
            "icons": [
             "Wheat",
             "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sour Cream",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hot and Sour Soup",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Guacamole",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Grated Cotija Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Salsa Pico De Gallo",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -66090,26 +66226,6 @@
          "name": "Griddle/Grill",
          "items": [
           {
-           "name": "Chocolate Chip Pancakes",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Syrup",
            "tags": [
             "vegan-option",
@@ -66118,6 +66234,22 @@
            "icons": [
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Sausage Pancake Wrap",
+           "tags": [
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Low Carbon Footprint"
            ]
           }
