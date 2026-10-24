@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T14:26:16-07:00",
+ "generated_at": "2026-10-23T21:39:07-07:00",
  "dates": [
   {
    "date": "20261022",
@@ -10252,7 +10252,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -12136,7 +12136,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -13974,7 +13974,7 @@
            ]
           },
           {
-           "name": "Peach Pie",
+           "name": "Cherry Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -13998,7 +13998,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -15181,7 +15181,7 @@
            ]
           },
           {
-           "name": "Brown Rice",
+           "name": "Steamed Broccoli",
            "tags": [
             "vegan-option"
            ],
@@ -15191,7 +15191,7 @@
            ]
           },
           {
-           "name": "Steamed Broccoli",
+           "name": "Himalayan Red Rice",
            "tags": [
             "vegan-option"
            ],
@@ -15240,16 +15240,6 @@
            ]
           },
           {
-           "name": "Sweet Chili Roasted Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Jasmine Rice",
            "tags": [
             "vegan-option"
@@ -15260,18 +15250,26 @@
            ]
           },
           {
-           "name": "Kimchi Chicken Potsticker",
+           "name": "Sauteed Garlic Baby Carrots and Snap Peas",
            "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
+            "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemongrass Chicken Potsticker",
+           "tags": [
+            "fish",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Fish",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Sesame",
             "Low Carbon Footprint"
            ]
           }
@@ -15486,16 +15484,9 @@
            ]
           },
           {
-           "name": "Broccoli Cheddar Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
+           "name": "Chicken Tortilla Soup",
+           "tags": [],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -16063,7 +16054,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -17277,6 +17268,47 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Fire & Flour",
+         "items": [
+          {
+           "name": "Cheese Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pepperoni Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       }
@@ -17285,7 +17317,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18023,7 +18055,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18538,7 +18570,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19171,7 +19203,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19198,7 +19230,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19739,7 +19771,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -22984,13 +23016,17 @@
            ]
           },
           {
-           "name": "Chicken Green Chile Chowder",
+           "name": "Grandma Mary's Chicken Soup",
            "tags": [
-            "milk"
+            "egg",
+            "wheat",
+            "gluten"
            ],
            "icons": [
-            "Milk",
-            "High Carbon Footprint"
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -26070,7 +26106,7 @@
            ]
           },
           {
-           "name": "Red Beans and Rice",
+           "name": "Cilantro and Lime Rice",
            "tags": [
             "vegan-option"
            ],
@@ -26080,7 +26116,7 @@
            ]
           },
           {
-           "name": "Cilantro and Lime Rice",
+           "name": "Black Beans",
            "tags": [
             "vegan-option"
            ],
