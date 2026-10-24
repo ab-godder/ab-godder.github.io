@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:58:50-07:00",
+ "generated_at": "2026-10-24T13:51:53-07:00",
  "dates": [
   {
    "date": "20261023",
@@ -10014,7 +10014,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -10026,16 +10026,6 @@
         {
          "name": "Center Plate",
          "items": [
-          {
-           "name": "Halal Chimichuri Grilled Tri Tip",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "High Carbon Footprint"
-           ]
-          },
           {
            "name": "Seasoned Black Beans",
            "tags": [
@@ -10063,16 +10053,6 @@
            ]
           },
           {
-           "name": "Cilantro and Lime Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Corn Pepper Mexicali",
            "tags": [
             "vegan-option"
@@ -10094,6 +10074,23 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Long Grain Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "BBQ Beef Brisket",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -10152,6 +10149,45 @@
            "icons": [
             "Soybeans",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jamaican Rice and Peas",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Halal Java Beef Curry",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jamaican Rice and Peas",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -11784,7 +11820,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -13159,7 +13195,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -13195,16 +13231,6 @@
             "Egg",
             "Vegetarian Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Andouille Sausage",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "High Carbon Footprint"
            ]
           },
           {
@@ -13496,16 +13522,6 @@
            ]
           },
           {
-           "name": "Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Peppers",
            "tags": [
             "vegan-option"
@@ -13534,6 +13550,16 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Cumin Roasted Cauliflower",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -13541,7 +13567,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Split Pea Soup",
+           "name": "Bean Chili",
            "tags": [
             "vegan-option"
            ],
@@ -13551,27 +13577,17 @@
            ]
           },
           {
-           "name": "Lobster Bisque",
+           "name": "Grandma Mary's Chicken Soup",
            "tags": [
-            "milk",
             "egg",
-            "fish",
-            "shellfish",
             "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol"
+            "gluten"
            ],
            "icons": [
-            "Milk",
             "Egg",
-            "Fish",
-            "Shellfish",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Alcohol",
-            "High Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15152,7 +15168,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -19594,17 +19610,27 @@
            ]
           },
           {
-           "name": "Broccoli Cheddar Soup",
+           "name": "Lobster Bisque",
            "tags": [
             "milk",
-            "vegetarian-option",
-            "halal"
+            "egg",
+            "fish",
+            "shellfish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol"
            ],
            "icons": [
             "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Medium Carbon Footprint"
+            "Egg",
+            "Fish",
+            "Shellfish",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "High Carbon Footprint"
            ]
           }
          ]
