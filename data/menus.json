@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T04:03:48-07:00",
+ "generated_at": "2026-10-24T08:58:50-07:00",
  "dates": [
   {
    "date": "20261023",
@@ -10181,22 +10181,6 @@
            ]
           },
           {
-           "name": "Vegan Mac and Cheese Bake",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Green Beans",
            "tags": [
             "vegan-option"
@@ -10208,6 +10192,20 @@
           },
           {
            "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Marinara Penne Pasta",
            "tags": [
             "wheat",
             "gluten",
@@ -16074,7 +16072,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
