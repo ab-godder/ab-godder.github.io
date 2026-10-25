@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T13:52:22-07:00",
+ "generated_at": "2026-10-25T16:17:42-07:00",
  "dates": [
   {
    "date": "20261024",
@@ -60,6 +60,16 @@
         {
          "name": "Center Plate",
          "items": [
+          {
+           "name": "Halal Chimichuri Grilled Tri Tip",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "High Carbon Footprint"
+           ]
+          },
           {
            "name": "Seasoned Black Beans",
            "tags": [
@@ -185,18 +195,6 @@
             "Halal",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Jamaican Rice and Peas",
-           "tags": [
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -216,11 +214,9 @@
           {
            "name": "Jamaican Rice and Peas",
            "tags": [
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -6155,7 +6151,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -7209,37 +7205,11 @@
            ]
           },
           {
-           "name": "Fried Orange Tofu",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Long Grain Rice",
            "tags": [
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Roasted Gai Lan",
-           "tags": [
-            "soybeans",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -7412,37 +7382,27 @@
            ]
           },
           {
-           "name": "Brown Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Stir Fried Cabbage",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Baked Diced Sweet Potato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Potato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Wild Rice",
            "tags": [
             "vegan-option"
            ],
@@ -7927,7 +7887,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -9274,7 +9234,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -9535,6 +9495,16 @@
            "icons": [
             "Pork",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal North African-style Roasted Chicken",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -11165,7 +11135,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -26127,45 +26097,6 @@
          ]
         },
         {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Vegetable Fajita Burrito",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetarian Breakfast Burrito",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Griddle/Grill",
          "items": [
           {
@@ -26429,81 +26360,6 @@
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Grill",
-         "items": [
-          {
-           "name": "Crinkle Potato Fries",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Beef Bulgogi",
-           "tags": [
-            "soybeans",
-            "sesame"
-           ],
-           "icons": [
-            "Soybeans",
-            "Sesame",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lentil Bulgogi",
-           "tags": [
-            "soybeans",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Sesame",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Kimchi",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Korean Gochujang Sauce",
-           "tags": [
-            "egg",
-            "soybeans",
-            "alcohol"
-           ],
-           "icons": [
-            "Egg",
-            "Soybeans",
-            "Alcohol",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Green Onion",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -27263,6 +27119,29 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Pizza",
+         "items": [
+          {
+           "name": "Cheese Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       },
@@ -27280,13 +27159,21 @@
            ]
           },
           {
-           "name": "White Bean Polenta",
+           "name": "Baked Rockfish with Piccata Sauce",
            "tags": [
-            "vegan-option"
+            "milk",
+            "fish",
+            "wheat",
+            "gluten",
+            "alcohol"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Milk",
+            "Fish",
+            "Wheat",
+            "Gluten",
+            "Alcohol",
+            "Medium Carbon Footprint"
            ]
           },
           {
@@ -28082,6 +27969,29 @@
             "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Pizza",
+         "items": [
+          {
+           "name": "Cheese Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -37258,27 +37168,35 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Panang Beef Curry",
+           "name": "Thai Basil Salmon",
            "tags": [
             "fish",
-            "shellfish"
+            "wheat",
+            "soybeans",
+            "gluten"
            ],
            "icons": [
             "Fish",
-            "Shellfish",
-            "High Carbon Footprint"
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Martha Stewart's Vibrant Green Broccoli Curry",
+           "name": "Baked Lemongrass Tofu",
            "tags": [
-            "shellfish",
-            "soybeans"
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
            ],
            "icons": [
-            "Shellfish",
+            "Wheat",
             "Soybeans",
-            "Medium Carbon Footprint"
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -42639,56 +42557,6 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal BBQ Chicken Slider",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Portobello BBQ Sandwich",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Sesame",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Housemade Lemon Pepper Potato Chips",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Garlic Roasted Broccoli",
            "tags": [
             "vegan-option"
@@ -42700,6 +42568,62 @@
           },
           {
            "name": "Summer Squash Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Teriyaki Chicken Thigh",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "halal"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Teriyaki Tofu",
+           "tags": [
+            "soybeans",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegetable Spring Rolls",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Garlic Fried Rice",
            "tags": [
             "vegan-option"
            ],
