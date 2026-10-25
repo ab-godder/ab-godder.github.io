@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T16:17:01-07:00",
+ "generated_at": "2026-10-24T21:43:36-07:00",
  "dates": [
   {
    "date": "20261023",
@@ -12720,7 +12720,7 @@
            ]
           },
           {
-           "name": "Pepperoni Pizza with Pepperoncinis",
+           "name": "Sausage Pizza",
            "tags": [
             "milk",
             "wheat",
@@ -14301,16 +14301,6 @@
            ]
           },
           {
-           "name": "Roasted Mexican Vegetable Blend",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Corn Pepper Mexicali",
            "tags": [
             "vegan-option"
@@ -14363,18 +14353,6 @@
            ]
           },
           {
-           "name": "Hot and Sour Soup",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Mild Salsa",
            "tags": [
             "vegan-option"
@@ -14390,6 +14368,30 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Garlic Roasted Broccoli",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Flour Tortilla",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -14436,7 +14438,7 @@
            ]
           },
           {
-           "name": "Asparagus",
+           "name": "Sauteed Asparagus Zucchini and Onion",
            "tags": [
             "vegan-option"
            ],
@@ -14446,16 +14448,24 @@
            ]
           },
           {
-           "name": "Assorted Dinner Rolls",
+           "name": "Hawaiian Dinner Roll",
            "tags": [
+            "milk",
+            "egg",
             "wheat",
+            "soybeans",
             "gluten",
-            "vegan-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
+            "Milk",
+            "Egg",
             "Wheat",
+            "Soybeans",
             "Gluten",
-            "Vegan Option",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -14475,37 +14485,7 @@
            ]
           },
           {
-           "name": "Blacked Eyed Peas Stew",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Hominy",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Cumin Butternut Squash",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Brussels Sprouts",
            "tags": [
             "vegan-option"
            ],
@@ -14523,14 +14503,9 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          }
-         ]
-        },
-        {
-         "name": "Soup",
-         "items": [
+          },
           {
-           "name": "Split Pea Soup",
+           "name": "Vegan Wellness Stew",
            "tags": [
             "vegan-option"
            ],
@@ -14539,6 +14514,31 @@
             "Low Carbon Footprint"
            ]
           },
+          {
+           "name": "Kidney Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Quinoa",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Soup",
+         "items": [
           {
            "name": "New England Clam Chowder",
            "tags": [
@@ -14550,6 +14550,16 @@
             "Milk",
             "Shellfish",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Bean Chili",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -16080,7 +16090,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
