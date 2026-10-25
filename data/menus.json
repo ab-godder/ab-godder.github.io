@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:22:51-07:00",
+ "generated_at": "2026-10-25T13:52:22-07:00",
  "dates": [
   {
    "date": "20261024",
@@ -6155,7 +6155,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -7927,7 +7927,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -8590,12 +8590,35 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Black Forest Cake",
+           "name": "Assorted Mini Cheesecakes",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Shortcake",
            "tags": [
             "milk",
             "egg",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
@@ -8604,7 +8627,6 @@
             "Milk",
             "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -8612,7 +8634,7 @@
            ]
           },
           {
-           "name": "Apple Pie",
+           "name": "Peach Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -8624,6 +8646,26 @@
             "Gluten",
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Custard Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -9232,7 +9274,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -9244,20 +9286,6 @@
         {
          "name": "Center Plate",
          "items": [
-          {
-           "name": "Frittata",
-           "tags": [
-            "milk",
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Scrambled Eggs",
            "tags": [
@@ -9300,16 +9328,6 @@
            ]
           },
           {
-           "name": "Fried Tater Tots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Berry Granola Plantains",
            "tags": [
             "wheat",
@@ -9327,6 +9345,26 @@
           },
           {
            "name": "Garlic Roasted Broccolini",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Broccoli",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Home Fries",
            "tags": [
             "vegan-option"
            ],
@@ -9435,7 +9473,7 @@
            ]
           },
           {
-           "name": "Roasted Zucchini Mushroom",
+           "name": "Roasted Root Veggies",
            "tags": [
             "vegan-option"
            ],
@@ -9445,12 +9483,57 @@
            ]
           },
           {
-           "name": "Roasted Root Veggies",
+           "name": "Sauteed Mushroom Vegetable Blend",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Refried Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Enchiladas with Red Sauce",
+           "tags": [
+            "milk"
+           ],
+           "icons": [
+            "Milk",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mexican Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Pork",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
             "Low Carbon Footprint"
            ]
           }
@@ -11082,7 +11165,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -44531,89 +44614,23 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Penne Pasta",
+           "name": "Roasted Pork Char Siu",
            "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mac & Cheese with Broccoli",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cinnamon Glazed Carrots",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Hawaiian Dinner Roll",
-           "tags": [
-            "milk",
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option",
-            "halal"
+            "alcohol",
+            "sesame",
+            "pork"
            ],
            "icons": [
-            "Milk",
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Gluten Free Penne Pasta",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Alcohol",
+            "Sesame",
+            "Pork",
+            "High Carbon Footprint"
            ]
           }
          ]
