@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:17:42-07:00",
+ "generated_at": "2026-10-25T21:49:52-07:00",
  "dates": [
   {
    "date": "20261024",
@@ -7838,7 +7838,7 @@
            ]
           },
           {
-           "name": "Apple Pie",
+           "name": "Fruits of the Forest Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -9188,12 +9188,11 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Black Forest Cake",
+           "name": "Strawberry Shortcake",
            "tags": [
             "milk",
             "egg",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
@@ -9202,7 +9201,6 @@
             "Milk",
             "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -9210,7 +9208,51 @@
            ]
           },
           {
-           "name": "Apple Pie",
+           "name": "Assorted Mini Cheesecakes",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Custard Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Peach Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -9272,54 +9314,6 @@
            "name": "Turkey Sausage Link",
            "tags": [],
            "icons": [
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Soyrizo with Peppers and Onion",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Berry Granola Plantains",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Roasted Broccolini",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Steamed Broccoli",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -10272,18 +10266,6 @@
          "name": "Centerplate",
          "items": [
           {
-           "name": "Filipino Styled Pork Adobo Stew",
-           "tags": [
-            "soybeans",
-            "pork"
-           ],
-           "icons": [
-            "Soybeans",
-            "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Shrimp Pancit",
            "tags": [
             "shellfish",
@@ -10309,16 +10291,6 @@
           },
           {
            "name": "Sauteed Green Beans with Garlic and Ginger",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lemon Pepper Roasted Cauliflower",
            "tags": [
             "vegan-option"
            ],
@@ -10374,6 +10346,64 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Sauteed Mushroom Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Thigh Adobo Stew",
+           "tags": [
+            "soybeans"
+           ],
+           "icons": [
+            "Soybeans",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Chicken Thigh Tinga",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Yukon Potato",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -10421,7 +10451,7 @@
            ]
           },
           {
-           "name": "Bread Stick Focaccia",
+           "name": "Assorted Dinner Rolls",
            "tags": [
             "wheat",
             "gluten",
@@ -10480,16 +10510,6 @@
            ]
           },
           {
-           "name": "Squash Medley",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Steamed Peas",
            "tags": [
             "vegan-option"
@@ -10501,6 +10521,16 @@
           },
           {
            "name": "Plant Based Cheese Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Asparagus",
            "tags": [
             "vegan-option"
            ],
@@ -10529,16 +10559,9 @@
            ]
           },
           {
-           "name": "Broccoli Cheddar Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
+           "name": "Turkey and Bean Chili",
+           "tags": [],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
             "Medium Carbon Footprint"
            ]
           }
@@ -11757,39 +11780,6 @@
          ]
         },
         {
-         "name": "Deli Bar",
-         "items": [
-          {
-           "name": "Tuna Salad",
-           "tags": [
-            "egg",
-            "fish",
-            "halal"
-           ],
-           "icons": [
-            "Egg",
-            "Fish",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Egg Salad",
-           "tags": [
-            "egg",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Halal",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Dessert",
          "items": [
           {
@@ -12133,7 +12123,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -13437,16 +13427,6 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "BBQ Braised Beef Brisket",
-           "tags": [
-            "kosher"
-           ],
-           "icons": [
-            "Kosher",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Red Potatoes with Garlic",
            "tags": [
             "vegan-option"
@@ -13478,6 +13458,16 @@
             "Alcohol",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kosher Beef Chili Colorado",
+           "tags": [
+            "kosher"
+           ],
+           "icons": [
+            "Kosher",
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -15811,7 +15801,25 @@
            ]
           },
           {
-           "name": "Luscious Lemon Bar",
+           "name": "Vegan Chocolate Chip Cookie",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Boston Cream Pie",
            "tags": [
             "milk",
             "egg",
@@ -15828,24 +15836,6 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Chocolate Chip Cookie",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -17972,27 +17962,41 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Strawberry Shortcake",
+           "name": "French Cream Cheesecake",
            "tags": [
             "milk",
-            "egg",
             "wheat",
             "gluten",
-            "vegetarian-option",
-            "halal"
+            "vegetarian-option"
            ],
            "icons": [
             "Milk",
-            "Egg",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chocolate Chip Cookie",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Boston Cream Pie",
+           "name": "Cinnamon Cereal Milk Cake",
            "tags": [
             "milk",
             "egg",
@@ -18009,22 +18013,6 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Lemon Sugar Cookies",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -27065,44 +27053,6 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Tuxedo Mousse Cake",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Fruits of the Forest Pie",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Oatmeal Raisin Cookie",
            "tags": [
             "wheat",
@@ -27115,6 +27065,46 @@
             "Gluten",
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Black Forest Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemon Cream Shortcake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -27376,18 +27366,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Baby Kale with Lemon and Olive Oil",
-           "tags": [
-            "milk",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
            ]
           },
           {
@@ -27918,44 +27896,6 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Tuxedo Mousse Cake",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Fruits of the Forest Pie",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Oatmeal Raisin Cookie",
            "tags": [
             "wheat",
@@ -27968,6 +27908,46 @@
             "Gluten",
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Black Forest Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemon Cream Shortcake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -36240,27 +36220,35 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Panang Beef Curry",
+           "name": "Thai Basil Salmon",
            "tags": [
             "fish",
-            "shellfish"
+            "wheat",
+            "soybeans",
+            "gluten"
            ],
            "icons": [
             "Fish",
-            "Shellfish",
-            "High Carbon Footprint"
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Martha Stewart's Vibrant Green Broccoli Curry",
+           "name": "Tofu Eggplant Basil Stir Fry",
            "tags": [
-            "shellfish",
-            "soybeans"
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
            ],
            "icons": [
-            "Shellfish",
+            "Wheat",
             "Soybeans",
-            "Medium Carbon Footprint"
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -36955,73 +36943,6 @@
          ]
         },
         {
-         "name": "Dessert",
-         "items": [
-          {
-           "name": "Cinnamon Cereal Milk Cake",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cherry Pie",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chocolate Hazelnut Beignets",
-           "tags": [
-            "milk",
-            "egg",
-            "tree-nuts",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Tree Nuts",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Pizza",
          "items": [
           {
@@ -37184,7 +37105,7 @@
            ]
           },
           {
-           "name": "Baked Lemongrass Tofu",
+           "name": "Tofu Eggplant Basil Stir Fry",
            "tags": [
             "wheat",
             "soybeans",
@@ -46051,54 +45972,28 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Naan Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "kosher"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
         {
          "name": "Lemongrass",
          "items": [
-          {
-           "name": "Pork Ramen Noodles",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "sesame",
-            "pork"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Sesame",
-            "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Ramen",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Vegetable Eggroll",
            "tags": [
@@ -46112,45 +46007,6 @@
             "Soybeans",
             "Gluten",
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Grill",
-         "items": [
-          {
-           "name": "Lettuce Tomato and Avocado Sandwich",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Bacon Lettuce and Tomato Sandwich",
-           "tags": [
-            "egg",
-            "wheat",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Pork",
             "Low Carbon Footprint"
            ]
           }
