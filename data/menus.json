@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T06:06:11-07:00",
+ "generated_at": "2026-10-26T13:30:05-07:00",
  "dates": [
   {
    "date": "20261025",
@@ -4153,6 +4153,16 @@
          "name": "Centerplate",
          "items": [
           {
+           "name": "Chicken Thigh Adobo Stew",
+           "tags": [
+            "soybeans"
+           ],
+           "icons": [
+            "Soybeans",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Shrimp Pancit",
            "tags": [
             "shellfish",
@@ -4172,6 +4182,16 @@
            ],
            "icons": [
             "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sauteed Mushroom Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -4231,26 +4251,6 @@
            "icons": [
             "Soybeans",
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sauteed Mushroom Vegetable Blend",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Thigh Adobo Stew",
-           "tags": [
-            "soybeans"
-           ],
-           "icons": [
-            "Soybeans",
             "Low Carbon Footprint"
            ]
           }
@@ -6041,7 +6041,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -7969,7 +7969,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -9736,7 +9736,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -9762,6 +9762,20 @@
            ]
           },
           {
+           "name": "Baked Pork Bacon",
+           "tags": [
+            "pork",
+            "pork",
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Pork",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
            "name": "Vegan Scrambled Egg",
            "tags": [
             "vegan-option"
@@ -9782,11 +9796,15 @@
            ]
           },
           {
-           "name": "Potato Wedges",
+           "name": "Hashbrown Patties",
            "tags": [
+            "vegan-option",
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -9883,6 +9901,39 @@
          ]
         },
         {
+         "name": "Pastries",
+         "items": [
+          {
+           "name": "Baked Pork Bacon",
+           "tags": [
+            "pork",
+            "pork",
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Pork",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hashbrown Patties",
+           "tags": [
+            "vegan-option",
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Bagel Bar",
          "items": [
           {
@@ -9951,6 +10002,34 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Pork Bacon",
+           "tags": [
+            "pork",
+            "pork",
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Pork",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hashbrown Patties",
+           "tags": [
+            "vegan-option",
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10280,11 +10359,9 @@
           {
            "name": "Baby Spinach",
            "tags": [
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10330,49 +10407,7 @@
            ]
           },
           {
-           "name": "Baby Spinach",
-           "tags": [
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Base - Mixed Greens",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Gold Beets",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Red Beets",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Red Beets",
            "tags": [
             "vegan-option"
            ],
@@ -10392,57 +10427,7 @@
            ]
           },
           {
-           "name": "Bias Cut Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Shredded Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Shredded Rainbow Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Whole Baby Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Matchstick Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Carrot Sticks",
            "tags": [
             "vegan-option"
            ],
@@ -10462,67 +10447,7 @@
            ]
           },
           {
-           "name": "English Cucumbers",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Diced Cucumbers",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Red Radishes",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sliced Radish",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cherry Tomatoes",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Grape Tomato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Heirloom Tomato",
            "tags": [
             "vegan-option"
            ],
@@ -10608,16 +10533,6 @@
            ]
           },
           {
-           "name": "Apple Cider Vinegar",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Ranch Dressing",
            "tags": [
             "milk",
@@ -10678,42 +10593,6 @@
            ]
           },
           {
-           "name": "Asian Sesame Dressing",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Blue Cheese Dressing",
-           "tags": [
-            "milk",
-            "egg",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Sesame",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Italian Dressing",
            "tags": [
             "vegan-option",
@@ -10735,18 +10614,6 @@
            "icons": [
             "Egg",
             "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Blood Orange Vinaigrette",
-           "tags": [
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -10855,26 +10722,6 @@
             "Kosher",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Peach",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Nectarine",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -10914,7 +10761,85 @@
            ]
           },
           {
+           "name": "Apple Pie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Matcha Filled Mini Beignet",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Shortcake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Cinnamon Cereal Milk Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Boston Cream Pie",
            "tags": [
             "milk",
             "egg",
@@ -11952,7 +11877,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -13270,7 +13195,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -13992,7 +13917,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -14507,7 +14432,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -15150,7 +15075,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -15177,7 +15102,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -15718,7 +15643,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -21015,6 +20940,24 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sausage and Onion Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -29812,47 +29755,6 @@
          ]
         },
         {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Eggs Benedict Sandwiches",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mung Bean Benedict",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Griddle/Grill",
          "items": [
           {
@@ -29880,6 +29782,26 @@
             "Wheat",
             "Soybeans",
             "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple Filled Pancake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -30174,6 +30096,29 @@
             "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Sausage and Onion Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -30853,7 +30798,7 @@
            ]
           },
           {
-           "name": "Margherita Pizza",
+           "name": "Roma Pesto Pizza",
            "tags": [
             "milk",
             "wheat",
@@ -39605,37 +39550,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Chorizo Chilaquiles",
-           "tags": [
-            "milk",
-            "egg",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Chilaquiles",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -49467,6 +49381,22 @@
            "icons": [
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "French Toast Sticks",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
