@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:57:50-07:00",
+ "generated_at": "2026-10-28T13:16:59-07:00",
  "dates": [
   {
    "date": "20261027",
@@ -705,18 +705,20 @@
            ]
           },
           {
-           "name": "Pesto Alfredo Sauce",
+           "name": "Halal Alfredo Pesto",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -1394,18 +1396,20 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Pesto Alfredo Sauce",
+           "name": "Halal Alfredo Pesto",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -9796,7 +9800,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10342,16 +10346,6 @@
           },
           {
            "name": "Roasted Mexican Vegetable Blend",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Salsa Pico De Gallo",
            "tags": [
             "vegan-option"
            ],
@@ -11728,7 +11722,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11751,20 +11745,6 @@
             "Egg",
             "Vegetarian Option",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Basil and Cheese Eggs Scramble",
-           "tags": [
-            "milk",
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -11820,6 +11800,20 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cheddar Eggs Scramble",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -13486,7 +13480,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -13613,26 +13607,6 @@
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Apple Filled Pancake",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -13977,16 +13951,6 @@
            ]
           },
           {
-           "name": "Sauteed Zucchini & Onion Sauteed",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "French Dinner Roll",
            "tags": [
             "wheat",
@@ -13999,6 +13963,16 @@
             "Gluten",
             "Vegan Option",
             "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Broccoli and Cauliflower",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -14087,7 +14061,7 @@
            ]
           },
           {
-           "name": "Split Pea Soup",
+           "name": "Native Three Sisters Bean Soup",
            "tags": [
             "vegan-option"
            ],
@@ -14616,38 +14590,62 @@
            ]
           },
           {
-           "name": "Vegan Chocolate Chip Cookie",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lemon Cream Shortcake",
+           "name": "Tuxedo Mousse Cake",
            "tags": [
             "milk",
             "egg",
             "wheat",
+            "soybeans",
             "gluten",
+            "alcohol",
             "vegetarian-option"
            ],
            "icons": [
             "Milk",
             "Egg",
             "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Luscious Lemon Bar",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Oatmeal Raisin Cookie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -14888,24 +14886,6 @@
             "Gluten",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Pork and Vegetable Eggroll",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -14947,7 +14927,7 @@
            ]
           },
           {
-           "name": "Sauteed Zucchini & Onion Sauteed",
+           "name": "Steamed Peas and Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -15057,7 +15037,7 @@
            ]
           },
           {
-           "name": "Split Pea Soup",
+           "name": "Native Three Sisters Bean Soup",
            "tags": [
             "vegan-option"
            ],
@@ -15659,7 +15639,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16833,7 +16813,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17555,7 +17535,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18070,7 +18050,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18703,7 +18683,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -18730,7 +18710,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19271,7 +19251,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -22661,7 +22641,7 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal Chicken Inasal",
+           "name": "Chicken Inasal",
            "tags": [
             "milk",
             "soybeans",
@@ -46574,13 +46554,15 @@
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -62204,18 +62186,20 @@
            ]
           },
           {
-           "name": "Pesto Alfredo Sauce",
+           "name": "Halal Alfredo Pesto",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -62922,18 +62906,20 @@
            ]
           },
           {
-           "name": "Pesto Alfredo Sauce",
+           "name": "Halal Alfredo Pesto",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
