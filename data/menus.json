@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:15:30-07:00",
+ "generated_at": "2026-10-27T22:44:34-07:00",
  "dates": [
   {
    "date": "20261026",
@@ -11131,14 +11131,16 @@
            ]
           },
           {
-           "name": "Vegan Celebration \"Roast\"",
+           "name": "Vegan Mediterranean \"Chicken\" Strips",
            "tags": [
             "wheat",
+            "soybeans",
             "gluten",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
@@ -11162,16 +11164,6 @@
           },
           {
            "name": "Sauteed Green Beans",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Bell Pepper Brussels Sprout Mushroom and Zucchini",
            "tags": [
             "vegan-option"
            ],
@@ -11247,20 +11239,6 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Rigatoni Pasta",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Pesto Alfredo Sauce",
            "tags": [
             "milk",
@@ -11298,6 +11276,20 @@
           },
           {
            "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Penne Pasta",
            "tags": [
             "wheat",
             "gluten",
@@ -12255,6 +12247,16 @@
             "Gluten",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Roasted Peppers",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -13008,16 +13010,6 @@
            ]
           },
           {
-           "name": "Salsa Roja",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Lime Wedges",
            "tags": [
             "vegan-option"
@@ -13029,6 +13021,16 @@
           },
           {
            "name": "Guacamole",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mild Salsa",
            "tags": [
             "vegan-option"
            ],
@@ -13632,7 +13634,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14800,6 +14802,24 @@
            ]
           },
           {
+           "name": "Baked Rockfish with Piccata Sauce",
+           "tags": [
+            "milk",
+            "fish",
+            "wheat",
+            "gluten",
+            "alcohol"
+           ],
+           "icons": [
+            "Milk",
+            "Fish",
+            "Wheat",
+            "Gluten",
+            "Alcohol",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
            "name": "Wild Rice Tofu Stuffed Peppers",
            "tags": [
             "soybeans",
@@ -14812,7 +14832,7 @@
            ]
           },
           {
-           "name": "Roasted Asparagus",
+           "name": "Poached Balsamic Pearl Onions",
            "tags": [
             "vegan-option"
            ],
@@ -14896,6 +14916,38 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Grilled Pork",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sweet Plantains",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sauteed Chicken Fajitas",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15106,47 +15158,7 @@
            ]
           },
           {
-           "name": "Baby Spinach",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Base - Mixed Greens",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Gold Beets",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Red Beets",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Red Beets",
            "tags": [
             "vegan-option"
            ],
@@ -15166,57 +15178,7 @@
            ]
           },
           {
-           "name": "Bias Cut Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Shredded Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Shredded Rainbow Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Whole Baby Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Matchstick Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Carrot Sticks",
            "tags": [
             "vegan-option"
            ],
@@ -15236,36 +15198,6 @@
            ]
           },
           {
-           "name": "English Cucumbers",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Diced Cucumbers",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Red Radishes",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sliced Radish",
            "tags": [
             "vegan-option"
@@ -15276,27 +15208,7 @@
            ]
           },
           {
-           "name": "Cherry Tomatoes",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Grape Tomato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Heirloom Tomato",
            "tags": [
             "vegan-option"
            ],
@@ -15382,16 +15294,6 @@
            ]
           },
           {
-           "name": "Apple Cider Vinegar",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Ranch Dressing",
            "tags": [
             "milk",
@@ -15452,69 +15354,7 @@
            ]
           },
           {
-           "name": "Asian Sesame Dressing",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Blue Cheese Dressing",
-           "tags": [
-            "milk",
-            "egg",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Sesame",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Italian Dressing",
-           "tags": [
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Poppy Seed Dressing",
-           "tags": [
-            "egg",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Blood Orange Vinaigrette",
            "tags": [
             "vegan-option",
             "halal"
@@ -15632,6 +15472,22 @@
             "Gluten",
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "French Cream Cheesecake",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -16570,19 +16426,13 @@
          "name": "Deli Bar",
          "items": [
           {
-           "name": "Kosher Egg Salad",
+           "name": "Chicken Salad",
            "tags": [
-            "egg",
-            "alcohol",
-            "vegetarian-option",
-            "kosher"
+            "egg"
            ],
            "icons": [
             "Egg",
-            "Alcohol",
-            "Vegetarian Option",
-            "Kosher",
-            "Medium Carbon Footprint"
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -16880,7 +16730,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17602,7 +17452,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18117,7 +17967,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18750,7 +18600,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -18777,7 +18627,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19318,7 +19168,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -23726,12 +23576,22 @@
            ]
           },
           {
-           "name": "Shrimp Ceviche Tostada",
+           "name": "Mexican-style Shrimp Ceviche",
            "tags": [
             "shellfish"
            ],
            "icons": [
             "Shellfish",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Yellow Tortilla Chip",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -30263,26 +30123,6 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Chicken Fajita",
-           "tags": [
-            "kosher"
-           ],
-           "icons": [
-            "Kosher",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Black Bean & Sweet Potato Taco Filling",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Cilantro and Lime Rice",
            "tags": [
             "vegan-option"
@@ -30310,6 +30150,16 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kosher Beef Chili Colorado",
+           "tags": [
+            "kosher"
+           ],
+           "icons": [
+            "Kosher",
+            "High Carbon Footprint"
            ]
           }
          ]
