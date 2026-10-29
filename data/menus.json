@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:59:53-07:00",
+ "generated_at": "2026-10-29T11:29:33-07:00",
  "dates": [
   {
    "date": "20261028",
@@ -9967,7 +9967,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11903,7 +11903,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11982,6 +11982,16 @@
           },
           {
            "name": "Forbidden Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Brown Rice",
            "tags": [
             "vegan-option"
            ],
@@ -12440,7 +12450,7 @@
          ]
         },
         {
-         "name": "Pasta",
+         "name": "Ramen Bar",
          "items": [
           {
            "name": "Roasted Pork Char Siu",
@@ -12460,6 +12470,46 @@
             "Sesame",
             "Pork",
             "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pork Ramen Broth",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Ramen Broth",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Char Siu Tofu",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -13617,7 +13667,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -13640,16 +13690,6 @@
             "Egg",
             "Vegetarian Option",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Apple Sausage",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -13703,34 +13743,29 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Vegan Breakfast \"Sausage\" Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey Sausage Link",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
         {
          "name": "Griddle/Grill",
          "items": [
-          {
-           "name": "Bread Pudding with Bananas and Raisins",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
           {
            "name": "Syrup",
            "tags": [
@@ -13741,6 +13776,24 @@
             "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Bread Pudding",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -13960,16 +14013,6 @@
           },
           {
            "name": "Tomato Chutney",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Kachumber Salad",
            "tags": [
             "vegan-option"
            ],
@@ -15887,7 +15930,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -17120,7 +17163,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17842,7 +17885,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18357,7 +18400,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18990,7 +19033,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19017,7 +19060,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19558,7 +19601,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -31807,39 +31850,7 @@
            ]
           },
           {
-           "name": "Cajun Eggs Scramble",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Cajun Potato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Grilled Longanisa",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Fried Rice",
            "tags": [
             "vegan-option"
            ],
@@ -31859,12 +31870,32 @@
            ]
           },
           {
-           "name": "Sauteed Green Beans",
+           "name": "Italian Vegetable Blend",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Apple Sausage",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
             "Low Carbon Footprint"
            ]
           }
