@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T11:29:33-07:00",
+ "generated_at": "2026-10-29T18:01:34-07:00",
  "dates": [
   {
    "date": "20261028",
@@ -699,6 +699,20 @@
            ]
           },
           {
+           "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Halal Chipotle Sauce",
            "tags": [
             "milk",
@@ -733,24 +747,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Dinner Rolls",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -10509,15 +10505,15 @@
            "name": "Fried Teriyaki Tofu",
            "tags": [
             "soybeans",
-            "alcohol",
             "sesame",
-            "vegan-option"
+            "vegan-option",
+            "halal"
            ],
            "icons": [
             "Soybeans",
-            "Alcohol",
             "Sesame",
             "Vegan Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -12511,6 +12507,22 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Marinated Eggs",
+           "tags": [
+            "egg",
+            "soybeans",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Soybeans",
+            "Alcohol",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -12928,21 +12940,19 @@
            ]
           },
           {
-           "name": "Chocolate Chunk Brownies",
+           "name": "Pecan Pie",
            "tags": [
-            "milk",
             "egg",
+            "tree-nuts",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
            ],
            "icons": [
-            "Milk",
             "Egg",
+            "Tree Nuts",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -14014,9 +14024,23 @@
           {
            "name": "Tomato Chutney",
            "tags": [
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tomato Chutney",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -14091,18 +14115,16 @@
            ]
           },
           {
-           "name": "Chicken Vegetable Bao",
+           "name": "Lemongrass Chicken Potsticker",
            "tags": [
+            "fish",
             "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
+            "gluten"
            ],
            "icons": [
+            "Fish",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Sesame",
             "Low Carbon Footprint"
            ]
           }
@@ -14266,27 +14288,27 @@
            ]
           },
           {
-           "name": "Roasted Cumin Butternut Squash",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Peppers",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cumin Roasted Cauliflower",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Diced Sweet Potato",
            "tags": [
             "vegan-option"
            ],
@@ -14948,6 +14970,84 @@
             "Halal",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Lemon Cream Shortcake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chocolate Chip Cookie",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemon Leche Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Custard Pie",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         }
@@ -14994,16 +15094,6 @@
            ]
           },
           {
-           "name": "Sauteed Corn Onion and Squash",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Elote Steamed Corn",
            "tags": [
             "milk",
@@ -15018,7 +15108,7 @@
            ]
           },
           {
-           "name": "Pinto Beans",
+           "name": "Seasoned Black Beans",
            "tags": [
             "vegan-option"
            ],
@@ -15047,6 +15137,16 @@
            "icons": [
             "Wheat",
             "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sauteed Green Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15237,16 +15337,6 @@
            ]
           },
           {
-           "name": "Steamed Broccoli Cauliflower and Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Bread Stick Focaccia",
            "tags": [
             "wheat",
@@ -15256,6 +15346,16 @@
            "icons": [
             "Wheat",
             "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15296,27 +15396,27 @@
            ]
           },
           {
-           "name": "Roasted Cumin Butternut Squash",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Peppers",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Diced Sweet Potato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Cauliflower",
            "tags": [
             "vegan-option"
            ],
@@ -15331,20 +15431,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Tomato Bisque Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Southwestern Corn Chowder",
            "tags": [
             "vegan-option"
@@ -15352,6 +15438,13 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey and Bean Chili",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -17024,22 +17117,6 @@
          "name": "Fire & Flour",
          "items": [
           {
-           "name": "Salmon Fettucini Alfredo Pasta",
-           "tags": [
-            "milk",
-            "fish",
-            "wheat",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Fish",
-            "Wheat",
-            "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Fettucini Alfredo Pasta",
            "tags": [
             "milk",
@@ -17065,6 +17142,34 @@
             "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whole Wheat Dinner Roll",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Shrimp Pesto Alfredo Sauce",
+           "tags": [
+            "milk",
+            "shellfish"
+           ],
+           "icons": [
+            "Milk",
+            "Shellfish",
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -17163,7 +17268,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18400,7 +18505,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19060,7 +19165,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19601,7 +19706,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -62923,18 +63028,34 @@
            ]
           },
           {
-           "name": "Creamy Chipotle Sauce",
+           "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chipotle Sauce",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -62955,24 +63076,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Dinner Rolls",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -63647,18 +63750,34 @@
            ]
           },
           {
-           "name": "Creamy Chipotle Sauce",
+           "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chipotle Sauce",
            "tags": [
             "milk",
             "wheat",
             "gluten",
-            "vegetarian-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
             "Milk",
             "Wheat",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -63679,24 +63798,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Dinner Rolls",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
