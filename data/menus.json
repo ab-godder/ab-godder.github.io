@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T11:02:12-07:00",
+ "generated_at": "2026-10-30T15:22:30-07:00",
  "dates": [
   {
    "date": "20261029",
@@ -10268,7 +10268,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -12102,7 +12102,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16049,7 +16049,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
