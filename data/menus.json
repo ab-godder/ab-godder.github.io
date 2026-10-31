@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:22:30-07:00",
+ "generated_at": "2026-10-30T22:44:17-07:00",
  "dates": [
   {
    "date": "20261029",
@@ -6710,7 +6710,7 @@
             "Milk",
             "Wheat",
             "Gluten",
-            "Medium Carbon Footprint"
+            "High Carbon Footprint"
            ]
           },
           {
@@ -10336,13 +10336,11 @@
            ]
           },
           {
-           "name": "Roasted Root Vegetables",
+           "name": "Roasted Root Veggies",
            "tags": [
-            "soybeans",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10965,17 +10963,27 @@
            ]
           },
           {
-           "name": "Halal Chicken Breast",
+           "name": "Plant Based Cheese Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal North African-style Roasted Chicken",
            "tags": [
             "halal"
            ],
            "icons": [
             "Halal",
-            "Low Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Plant Based Cheese Sauce",
+           "name": "Baked Diced Sweet Potato",
            "tags": [
             "vegan-option"
            ],
@@ -11470,22 +11478,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cornbread",
-           "tags": [
-            "tree-nuts",
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Tree Nuts",
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -12470,14 +12462,10 @@
           {
            "name": "Baked White Beans",
            "tags": [
-            "vegan-option",
-            "halal",
-            "kosher"
+            "vegan-option"
            ],
            "icons": [
             "Vegan Option",
-            "Halal",
-            "Kosher",
             "Low Carbon Footprint"
            ]
           }
@@ -13889,7 +13877,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -15172,20 +15160,6 @@
            ]
           },
           {
-           "name": "Sauteed Spicy Eggplant",
-           "tags": [
-            "soybeans",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Sesame",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Swiss Chard with Lemon and Garlic",
            "tags": [
             "vegan-option"
@@ -15211,6 +15185,18 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sauteed Cabbage and Onion with Sesame",
+           "tags": [
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15433,16 +15419,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Chicken Green Chile Chowder",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "High Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -15454,6 +15430,20 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Grandma Mary's Chicken Soup",
+           "tags": [
+            "egg",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -16002,45 +15992,6 @@
            ]
           }
          ]
-        },
-        {
-         "name": "Pizza",
-         "items": [
-          {
-           "name": "Cheese Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Parmesan Meatball Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
         }
        ]
       }
@@ -16554,16 +16505,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Chicken Green Chile Chowder",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "High Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -16575,6 +16516,13 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey and Bean Chili",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -17060,16 +17008,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Chicken Green Chile Chowder",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "High Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -17080,6 +17018,20 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tomato Bisque Soup",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -17163,7 +17115,17 @@
            ]
           },
           {
-           "name": "Swiss Onion Beef Burger",
+           "name": "Garlic Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Beef Mushroom Burger",
            "tags": [
             "milk",
             "wheat",
@@ -17174,16 +17136,6 @@
             "Wheat",
             "Gluten",
             "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Fries",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
            ]
           }
          ]
@@ -17311,7 +17263,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18049,7 +18001,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18564,7 +18516,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19197,7 +19149,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19224,7 +19176,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19765,7 +19717,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -22736,20 +22688,12 @@
             "wheat",
             "soybeans",
             "gluten",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -22913,26 +22857,24 @@
            ]
           },
           {
-           "name": "Garlic Bread",
+           "name": "Hawaiian Dinner Roll",
            "tags": [
+            "milk",
+            "egg",
             "wheat",
             "soybeans",
             "gluten",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
-            "vegan-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
+            "Milk",
+            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Vegan Option",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -39183,7 +39125,7 @@
          "name": "Iron &  Ember",
          "items": [
           {
-           "name": "Halal American Beef Burger",
+           "name": "American Beef Burger",
            "tags": [
             "milk",
             "wheat",
@@ -39197,7 +39139,7 @@
             "Soybeans",
             "Gluten",
             "Sesame",
-            "Low Carbon Footprint"
+            "High Carbon Footprint"
            ]
           },
           {
@@ -52984,22 +52926,6 @@
            ]
           },
           {
-           "name": "Mediterranean Orzo Salad",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Italian Vegetable Blend",
            "tags": [
             "vegan-option"
@@ -53037,6 +52963,20 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mediterranean Oroz Salad",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -59022,7 +58962,7 @@
          "name": "Iron &  Ember",
          "items": [
           {
-           "name": "Halal American Beef Burger",
+           "name": "American Beef Burger",
            "tags": [
             "milk",
             "wheat",
@@ -59036,7 +58976,7 @@
             "Soybeans",
             "Gluten",
             "Sesame",
-            "Low Carbon Footprint"
+            "High Carbon Footprint"
            ]
           },
           {
