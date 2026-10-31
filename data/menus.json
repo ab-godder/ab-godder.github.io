@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:33:54-07:00",
+ "generated_at": "2026-10-31T12:19:05-07:00",
  "dates": [
   {
    "date": "20261030",
@@ -9920,7 +9920,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -11653,7 +11653,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -11795,13 +11795,13 @@
            ]
           },
           {
-           "name": "Chicken Apple Sausage",
+           "name": "Louisiana-style Hot Links",
            "tags": [
             "pork"
            ],
            "icons": [
             "Pork",
-            "Low Carbon Footprint"
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -12995,7 +12995,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -14755,7 +14755,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -15066,49 +15066,6 @@
             "Wheat",
             "Gluten",
             "Alcohol",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Fire & Flour",
-         "items": [
-          {
-           "name": "Vegetable Deluxe Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mushroom Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Vegetarian Option",
             "Medium Carbon Footprint"
            ]
@@ -15671,7 +15628,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
