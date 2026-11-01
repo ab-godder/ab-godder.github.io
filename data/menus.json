@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:19:05-07:00",
+ "generated_at": "2026-10-31T17:09:05-07:00",
  "dates": [
   {
    "date": "20261030",
@@ -11736,6 +11736,16 @@
             "Halal",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Roasted Potatoes",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -11810,16 +11820,6 @@
          "name": "Allergen Friendly",
          "items": [
           {
-           "name": "Halal Rosemary Roasted Chicken Thigh",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Halal Ground Beef",
            "tags": [
             "halal"
@@ -11857,6 +11857,16 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Herb Roasted Chicken",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -13091,22 +13101,6 @@
          "name": "Pizza",
          "items": [
           {
-           "name": "BBQ Chicken Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegetable Deluxe Pizza",
            "tags": [
             "milk",
@@ -13123,6 +13117,24 @@
             "Gluten",
             "Alcohol",
             "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Bacon and Kale Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -15068,6 +15080,38 @@
             "Alcohol",
             "Vegetarian Option",
             "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Chef's Table",
+         "items": [
+          {
+           "name": "Halal Chicken Thigh Fajitas",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Long Grain Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Yemeni Beef Stew",
+           "tags": [],
+           "icons": [
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -43412,16 +43456,6 @@
           },
           {
            "name": "Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lemon Rice Pilaf",
            "tags": [
             "vegan-option"
            ],
