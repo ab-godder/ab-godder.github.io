@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T09:16:19-08:00",
+ "generated_at": "2026-11-04T15:41:03-08:00",
  "dates": [
   {
    "date": "20261103",
@@ -10008,7 +10008,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10566,6 +10566,20 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mediterranean Oroz Salad",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11953,7 +11967,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14301,34 +14315,16 @@
            ]
           },
           {
-           "name": "Poached Balsamic Pearl Onions",
+           "name": "Assorted Dinner Rolls",
            "tags": [
+            "wheat",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Hawaiian Dinner Roll",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Vegetarian Option",
-            "Halal",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -14912,7 +14908,7 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Peach Pie",
+           "name": "Apple Pie",
            "tags": [
             "wheat",
             "gluten",
@@ -14928,24 +14924,18 @@
            ]
           },
           {
-           "name": "Red Velvet Cookie",
+           "name": "Fruits of the Forest Pie",
            "tags": [
-            "milk",
-            "egg",
             "wheat",
-            "soybeans",
             "gluten",
-            "alcohol",
-            "vegetarian-option"
+            "vegan-option",
+            "halal"
            ],
            "icons": [
-            "Milk",
-            "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Alcohol",
-            "Vegetarian Option",
+            "Vegan Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -14965,6 +14955,26 @@
             "Egg",
             "Wheat",
             "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Shortcake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -15870,7 +15880,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16428,47 +16438,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Fire & Flour",
-         "items": [
-          {
-           "name": "Cheese Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sausage and Onion Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -17064,7 +17033,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -34149,22 +34118,6 @@
            ]
           },
           {
-           "name": "Mashed Yukon Potato",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal",
-            "kosher"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Kosher",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Red Beans and Rice",
            "tags": [
             "vegan-option"
@@ -43543,13 +43496,19 @@
            ]
           },
           {
-           "name": "Roasted Carrots Parsnips and Beets",
+           "name": "Blueberry Baked Oatmeal",
            "tags": [
-            "vegan-option"
+            "milk",
+            "egg",
+            "alcohol",
+            "vegetarian-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Milk",
+            "Egg",
+            "Alcohol",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -43599,17 +43558,21 @@
          "name": "Midday Mains",
          "items": [
           {
-           "name": "Halal Achiote Crusted Roast Beef",
+           "name": "Chicken Fried Steak with Gravy",
            "tags": [
-            "halal"
+            "milk",
+            "wheat",
+            "gluten"
            ],
            "icons": [
-            "Halal",
+            "Milk",
+            "Wheat",
+            "Gluten",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Sauteed Vegan Santa Maria Strips Halal",
+           "name": "Vegan \"Chicken\" Patty Smothered in Gravy",
            "tags": [
             "wheat",
             "soybeans",
@@ -43625,7 +43588,35 @@
            ]
           },
           {
-           "name": "Cilantro and Lime Rice",
+           "name": "Mashed Yukon Potato",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Sweet Potato",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Carrots Parsnips and Beets",
            "tags": [
             "vegan-option"
            ],
@@ -43635,13 +43626,33 @@
            ]
           },
           {
-           "name": "Vegetable Fajita",
+           "name": "Boiled Balsamic Pearl Onion Peas",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Biscuits",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Kosher",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -43674,6 +43685,13 @@
         {
          "name": "Hot Cereals/Grains",
          "items": [
+          {
+           "name": "Grits",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          },
           {
            "name": "Oatmeal",
            "tags": [
@@ -49380,6 +49398,20 @@
          "name": "Center Plate",
          "items": [
           {
+           "name": "Frittata",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Scrambled Eggs",
            "tags": [
             "egg",
@@ -49388,22 +49420,6 @@
            "icons": [
             "Egg",
             "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Halal Broccoli and Feta Frittata",
-           "tags": [
-            "milk",
-            "egg",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Vegetarian Option",
-            "Halal",
             "Medium Carbon Footprint"
            ]
           },
@@ -49432,6 +49448,32 @@
            ]
           },
           {
+           "name": "Vegan Breakfast \"Sausage\" Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Berry Granola Plantains",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Rosemary Parmesan Potato Wedges",
            "tags": [
             "milk",
@@ -49451,16 +49493,6 @@
            "icons": [
             "Pork",
             "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Grilled Eggplant",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
            ]
           }
          ]
@@ -49528,7 +49560,37 @@
            ]
           },
           {
-           "name": "Lentil, Mushroom & Cauliflower Crumble",
+           "name": "Baked Tofu Piccata",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Anne Burrell's Wild Mushroom Risotto",
+           "tags": [
+            "milk",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Alcohol",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sauteed Asparagus Zucchini and Onion",
            "tags": [
             "vegan-option"
            ],
@@ -49538,25 +49600,7 @@
            ]
           },
           {
-           "name": "Au Gratin Potatoes",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sauteed Asparagus Zucchini and Onion",
+           "name": "Vegetable Medley",
            "tags": [
             "vegan-option"
            ],
@@ -49593,7 +49637,7 @@
            ]
           },
           {
-           "name": "Vegan French Toast",
+           "name": "French Toast Sticks",
            "tags": [
             "wheat",
             "soybeans",
@@ -49619,6 +49663,20 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cream of Wheat",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
