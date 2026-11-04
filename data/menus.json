@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T15:24:45-08:00",
+ "generated_at": "2026-11-03T22:25:57-08:00",
  "dates": [
   {
    "date": "20261102",
@@ -14152,7 +14152,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -17543,7 +17543,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18285,7 +18285,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18800,7 +18800,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19469,7 +19469,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19496,7 +19496,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -20037,7 +20037,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
