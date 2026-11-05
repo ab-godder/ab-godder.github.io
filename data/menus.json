@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T09:25:42-08:00",
+ "generated_at": "2026-11-05T15:39:09-08:00",
  "dates": [
   {
    "date": "20261104",
@@ -8408,6 +8408,20 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -10035,7 +10049,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10711,16 +10725,6 @@
           },
           {
            "name": "Vegan Primavera Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -12030,7 +12034,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14266,6 +14270,22 @@
            ]
           },
           {
+           "name": "Naan Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "kosher"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Topping - Pickled Onions",
            "tags": [
             "vegan-option"
@@ -14375,6 +14395,62 @@
             "Gluten",
             "Sesame",
             "Pork",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Vegan Dan Dan Noodles",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Autumn Harvest Pesto Rigatoni",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Plant Forward Challenge 1",
+         "items": [
+          {
+           "name": "West African-Inspired Jollof Fonio with Suya-Spiced Yellow-Eyed Bean Cakes",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "FRENCH PANISSE PLATED WITH WHITE BEAN PUREE, QUINOA AND HARISSA AIOLI",
+           "tags": [],
+           "icons": [
             "Low Carbon Footprint"
            ]
           }
@@ -14960,6 +15036,22 @@
            ]
           },
           {
+           "name": "Peach Pie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Boston Cream Pie",
            "tags": [
             "milk",
@@ -15164,24 +15256,6 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Black Pepper Beef",
-           "tags": [
-            "shellfish",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
-           ],
-           "icons": [
-            "Shellfish",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sweet & Sour Tofu",
            "tags": [
             "wheat",
@@ -15228,22 +15302,38 @@
            ]
           },
           {
-           "name": "Pork Char Siu Bao",
+           "name": "Teriyaki Beef with Mushrooms",
            "tags": [
-            "shellfish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "sesame"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Sesame",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Edamame Potsticker",
+           "tags": [
             "wheat",
             "soybeans",
             "gluten",
             "sesame",
-            "pork"
+            "vegan-option"
            ],
            "icons": [
-            "Shellfish",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Sesame",
-            "Pork",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -15989,7 +16079,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -17248,7 +17338,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18560,6 +18650,20 @@
             "Gluten",
             "Sesame",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -25261,26 +25365,6 @@
            ]
           },
           {
-           "name": "Hush Puppies and Remoulade",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Creole Coleslaw",
            "tags": [
             "egg",
@@ -25289,6 +25373,16 @@
            "icons": [
             "Egg",
             "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Crinkle Potato Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -28583,6 +28677,20 @@
             "Gluten",
             "Sesame",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -50871,6 +50979,20 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -59701,6 +59823,20 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -68269,6 +68405,20 @@
             "Gluten",
             "Sesame",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Udi's Gluten Free Bagel with Cream Cheese",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
