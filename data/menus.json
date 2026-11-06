@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:47:18-08:00",
+ "generated_at": "2026-11-06T15:10:29-08:00",
  "dates": [
   {
    "date": "20261105",
@@ -4425,12 +4425,14 @@
            "tags": [
             "wheat",
             "soybeans",
-            "gluten"
+            "gluten",
+            "vegan-option"
            ],
            "icons": [
             "Wheat",
             "Soybeans",
             "Gluten",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -4441,8 +4443,11 @@
          "items": [
           {
            "name": "West African-Inspired Jollof Fonio with Suya-Spiced Yellow-Eyed Bean Cakes",
-           "tags": [],
+           "tags": [
+            "vegan-option"
+           ],
            "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -7436,16 +7441,6 @@
            ]
           },
           {
-           "name": "Chicken Hot and Sour Soup",
-           "tags": [
-            "sesame"
-           ],
-           "icons": [
-            "Sesame",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -7456,6 +7451,16 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Hot and Sour Soup",
+           "tags": [
+            "sesame"
+           ],
+           "icons": [
+            "Sesame",
             "Low Carbon Footprint"
            ]
           },
@@ -10337,7 +10342,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10993,16 +10998,6 @@
            ]
           },
           {
-           "name": "Wild Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Brussels Sprouts",
            "tags": [
             "vegan-option"
@@ -11014,6 +11009,16 @@
           },
           {
            "name": "Steamed Potato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Long Grain Rice",
            "tags": [
             "vegan-option"
            ],
@@ -12183,7 +12188,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14408,77 +14413,6 @@
          ]
         },
         {
-         "name": "Grill",
-         "items": [
-          {
-           "name": "Shrimp PoBoy Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "shellfish",
-            "wheat",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Shellfish",
-            "Wheat",
-            "Gluten",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "PoBoy Tempura Cauliflower Sandwich",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Hush Puppies and Remoulade",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Creole Coleslaw",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Pasta",
          "items": [
           {
@@ -14506,16 +14440,6 @@
            ]
           },
           {
-           "name": "Chicken Alfredo Sauce",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Root Veggies",
            "tags": [
             "vegan-option"
@@ -14537,6 +14461,18 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pesto Alfredo Sauce",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15212,18 +15148,6 @@
            ]
           },
           {
-           "name": "Crispy White Bean Cakes",
-           "tags": [
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Baked Parmesan Eggplant",
            "tags": [
             "milk",
@@ -15291,6 +15215,16 @@
           },
           {
            "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "New Orleans-style Black Eyed Beans Corn and Tomato Stew",
            "tags": [
             "vegan-option"
            ],
@@ -15393,34 +15327,6 @@
             "Wheat",
             "Gluten",
             "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "PoBoy Tempura Cauliflower Sandwich",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Creole Coleslaw",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -16084,6 +15990,47 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Pizza",
+         "items": [
+          {
+           "name": "Cheese Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pepperoni Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       }
@@ -16092,7 +16039,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -17396,7 +17343,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -25756,22 +25703,22 @@
            ]
           },
           {
-           "name": "Chocolate Chip Pancakes",
+           "name": "Belgian Waffle",
            "tags": [
             "milk",
+            "egg",
             "wheat",
             "soybeans",
             "gluten",
-            "vegetarian-option",
-            "halal"
+            "vegetarian-option"
            ],
            "icons": [
             "Milk",
+            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -66925,16 +66872,6 @@
            ]
           },
           {
-           "name": "Chicken Hot and Sour Soup",
-           "tags": [
-            "sesame"
-           ],
-           "icons": [
-            "Sesame",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -66945,6 +66882,16 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Hot and Sour Soup",
+           "tags": [
+            "sesame"
+           ],
+           "icons": [
+            "Sesame",
             "Low Carbon Footprint"
            ]
           },
