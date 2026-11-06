@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T15:39:09-08:00",
+ "generated_at": "2026-11-05T22:50:18-08:00",
  "dates": [
   {
    "date": "20261104",
@@ -13931,7 +13931,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14448,7 +14448,7 @@
            ]
           },
           {
-           "name": "FRENCH PANISSE PLATED WITH WHITE BEAN PUREE, QUINOA AND HARISSA AIOLI",
+           "name": "Cool Beans and Tasty Cakes",
            "tags": [],
            "icons": [
             "Low Carbon Footprint"
@@ -15197,7 +15197,7 @@
            ]
           },
           {
-           "name": "Bell Pepper Brussels Sprout Mushroom and Zucchini",
+           "name": "Bell Pepper Brussels Sprout and Zucchini",
            "tags": [
             "vegan-option"
            ],
@@ -15340,6 +15340,56 @@
          ]
         },
         {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Mediterranean-style Roasted Chicken",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegetable Fried Rice",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "BBQ Baked Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Cod with Lemon Butter",
+           "tags": [
+            "fish",
+            "soybeans",
+            "halal"
+           ],
+           "icons": [
+            "Fish",
+            "Soybeans",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Pasta",
          "items": [
           {
@@ -15463,16 +15513,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Chicken Tikka Masala Soup",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Bean Chili",
            "tags": [
             "vegan-option"
@@ -15480,6 +15520,13 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Tortilla Soup",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -15984,12 +16031,11 @@
            ]
           },
           {
-           "name": "Boston Cream Pie",
+           "name": "Pumpkin Pie",
            "tags": [
             "milk",
             "egg",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
@@ -15998,7 +16044,6 @@
             "Milk",
             "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -16006,7 +16051,7 @@
            ]
           },
           {
-           "name": "Luscious Lemon Bar",
+           "name": "Boston Cream Pie",
            "tags": [
             "milk",
             "egg",
@@ -17338,7 +17383,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -18080,7 +18125,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18595,7 +18640,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -19278,7 +19323,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -19305,7 +19350,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19846,7 +19891,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -35699,7 +35744,7 @@
            ]
           },
           {
-           "name": "Bell Pepper Brussels Sprout Mushroom and Zucchini",
+           "name": "Bell Pepper Brussels Sprout and Zucchini",
            "tags": [
             "vegan-option"
            ],
@@ -45142,16 +45187,6 @@
            ]
           },
           {
-           "name": "Matchstick Carrots",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sliced Cucumber",
            "tags": [
             "vegan-option"
@@ -45296,22 +45331,6 @@
            ]
           },
           {
-           "name": "Blue Cheese Dressing",
-           "tags": [
-            "milk",
-            "egg",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Sesame",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Caesar Dressing",
            "tags": [
             "milk",
@@ -45412,6 +45431,16 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Shredded Carrots",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -45444,6 +45473,41 @@
             "Vegetarian Option",
             "Halal",
             "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Fresh Fruit",
+         "items": [
+          {
+           "name": "Red Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -46280,7 +46344,7 @@
            ]
           },
           {
-           "name": "Baked Pork Bacon",
+           "name": "Pork Sausage Patty",
            "tags": [
             "pork"
            ],
@@ -46347,43 +46411,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Egg and Cheese English Muffin Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Gluten Free Vegan Egg and Cheese Sandwich",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -47586,6 +47613,18 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mojo Aioli Sauce",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -54359,7 +54398,7 @@
            ]
           },
           {
-           "name": "Bell Pepper Brussels Sprout Mushroom and Zucchini",
+           "name": "Bell Pepper Brussels Sprout and Zucchini",
            "tags": [
             "vegan-option"
            ],
@@ -55901,45 +55940,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Vegetable Fajita Burrito",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetarian Breakfast Burrito",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -65239,7 +65239,7 @@
            ]
           },
           {
-           "name": "Vegan Scrambled Egg",
+           "name": "Mung Bean Patty",
            "tags": [
             "vegan-option"
            ],
@@ -65296,47 +65296,6 @@
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Breakfast Special",
-         "items": [
-          {
-           "name": "Eggs Benedict Sandwiches",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mung Bean Benedict",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
