@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:25:15-08:00",
+ "generated_at": "2026-11-08T09:56:49-08:00",
  "dates": [
   {
    "date": "20261107",
@@ -8057,20 +8057,6 @@
            ]
           },
           {
-           "name": "Spiced Couscous",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Moroccan Honey‑Glazed Carrots",
            "tags": [
             "milk",
@@ -8081,6 +8067,16 @@
             "Milk",
             "Vegetarian Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Saffron Basmati Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -12228,7 +12224,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
