@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:26:32-08:00",
+ "generated_at": "2026-11-07T16:38:19-08:00",
  "dates": [
   {
    "date": "20261106",
@@ -11094,22 +11094,6 @@
            ]
           },
           {
-           "name": "Vegan Mac and Cheese Bake",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Green Beans",
            "tags": [
             "vegan-option"
@@ -11130,6 +11114,38 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Penne Pasta",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chipotle Sauce",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -13201,11 +13217,12 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Strawberry Shortcake",
+           "name": "Cinnamon Cereal Milk Cake",
            "tags": [
             "milk",
             "egg",
             "wheat",
+            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
@@ -13214,6 +13231,7 @@
             "Milk",
             "Egg",
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
@@ -13221,20 +13239,42 @@
            ]
           },
           {
-           "name": "Vegan Midnight Cookie",
+           "name": "Peach Pie",
            "tags": [
             "wheat",
-            "soybeans",
             "gluten",
             "vegan-option",
             "halal"
            ],
            "icons": [
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Assorted Mini Cheesecakes",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -14309,6 +14349,57 @@
          ]
         },
         {
+         "name": "Grill",
+         "items": [
+          {
+           "name": "PoBoy Tempura Cauliflower Sandwich",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Shrimp PoBoy Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "shellfish",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Shellfish",
+            "Wheat",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Creole Coleslaw",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Pasta",
          "items": [
           {
@@ -14387,16 +14478,6 @@
            ]
           },
           {
-           "name": "Blacked Eyed Peas Stew",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Hominy",
            "tags": [
             "vegan-option"
@@ -14428,6 +14509,16 @@
           },
           {
            "name": "Roasted Peppers",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Wellness Stew",
            "tags": [
             "vegan-option"
            ],
@@ -15018,47 +15109,6 @@
             "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Pizza",
-         "items": [
-          {
-           "name": "Cheese Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Bacon and Kale Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -25984,16 +26034,6 @@
            ]
           },
           {
-           "name": "Potato Wedges",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Mushroom Vegetable Blend",
            "tags": [
             "vegan-option"
@@ -26015,6 +26055,16 @@
           },
           {
            "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hashbrown Patties",
            "tags": [
             "vegan-option"
            ],
@@ -26178,22 +26228,6 @@
            ]
           },
           {
-           "name": "Halal Ginger Steamed Rockfish",
-           "tags": [
-            "fish",
-            "soybeans",
-            "sesame",
-            "halal"
-           ],
-           "icons": [
-            "Fish",
-            "Soybeans",
-            "Sesame",
-            "Halal",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Fried Sweet and Sour Tofu",
            "tags": [
             "soybeans",
@@ -26302,6 +26336,24 @@
             "Sesame",
             "Vegan Option",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Miso-Glazed Salmon",
+           "tags": [
+            "fish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame"
+           ],
+           "icons": [
+            "Fish",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Low Carbon Footprint"
            ]
           }
@@ -35799,32 +35851,6 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Chicken Pho",
-           "tags": [
-            "fish"
-           ],
-           "icons": [
-            "Fish",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Pho",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegetable Spring Rolls",
            "tags": [
             "wheat",
@@ -35839,48 +35865,44 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Sesame Orange Tamarind Chicken",
+           "tags": [
+            "shellfish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "sesame"
+           ],
+           "icons": [
+            "Shellfish",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Sesame",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Tofu",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
         {
          "name": "Grill",
          "items": [
-          {
-           "name": "Eggplant Reuben Sandwich",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Corned Beef Reuben Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "High Carbon Footprint"
-           ]
-          },
           {
            "name": "Housemade Lemon Pepper Potato Chips",
            "tags": [
@@ -35889,6 +35911,40 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey Corn Dog",
+           "tags": [
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Hot Dog",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -51753,22 +51809,6 @@
            ]
           },
           {
-           "name": "Spicy Fried Chicken Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vinegar-Based Slaw",
            "tags": [
             "vegan-option"
@@ -51779,7 +51819,45 @@
            ]
           },
           {
-           "name": "Housemade Lemon Pepper Potato Chips",
+           "name": "Beef Cheese Burger",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chipotle Black Bean Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option",
+            "kosher"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Regular Fries",
            "tags": [
             "vegan-option"
            ],
@@ -52671,42 +52749,6 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Portobello BBQ Sandwich",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Sesame",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Spicy Fried Chicken Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vinegar-Based Slaw",
            "tags": [
             "vegan-option"
@@ -52717,7 +52759,43 @@
            ]
           },
           {
-           "name": "Housemade Lemon Pepper Potato Chips",
+           "name": "Beef Cheese Burger",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chipotle Black Bean Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Regular Fries",
            "tags": [
             "vegan-option"
            ],
