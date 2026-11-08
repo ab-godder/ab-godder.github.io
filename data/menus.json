@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:56:49-08:00",
+ "generated_at": "2026-11-08T14:07:46-08:00",
  "dates": [
   {
    "date": "20261107",
@@ -6157,7 +6157,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -6177,20 +6177,6 @@
            "icons": [
             "Halal",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Celebration \"Roast\"",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -7272,35 +7258,19 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal Beef Bulgogi",
+           "name": "Halal Tandoori Chicken Breast",
            "tags": [
-            "soybeans",
-            "sesame",
+            "milk",
             "halal"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
+            "Milk",
             "Halal",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Baked Tofu Bulgogi",
-           "tags": [
-            "soybeans",
-            "sesame",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Sesame",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Saffron Basmati Rice",
+           "name": "Tarka Dal Stew",
            "tags": [
             "vegan-option"
            ],
@@ -7310,7 +7280,21 @@
            ]
           },
           {
-           "name": "Kimchi",
+           "name": "Fried Samosa",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cilantro Chutney",
            "tags": [
             "vegan-option"
            ],
@@ -7320,43 +7304,45 @@
            ]
           },
           {
-           "name": "Crushed Cucumber with Sesame and Garlic",
+           "name": "Tamarind Chutney",
            "tags": [
-            "soybeans",
-            "sesame",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Sesame Spinach Banchan",
+           "name": "Steamed Peas",
            "tags": [
-            "soybeans",
-            "sesame",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Bean Sprout Banchan",
+           "name": "Garlic Naan",
            "tags": [
-            "soybeans",
-            "sesame",
+            "wheat",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Basmati Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -8027,7 +8013,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -9407,7 +9393,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -11266,7 +11252,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -11621,30 +11607,18 @@
            ]
           },
           {
-           "name": "Vongole Clams Linguini",
+           "name": "Shrimp Lemon Cream Linguini",
            "tags": [
             "milk",
             "shellfish",
             "wheat",
-            "gluten",
-            "alcohol"
+            "gluten"
            ],
            "icons": [
             "Milk",
             "Shellfish",
             "Wheat",
             "Gluten",
-            "Alcohol",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Brussels Sprouts",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
