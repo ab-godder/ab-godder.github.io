@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:50:25-08:00",
+ "generated_at": "2026-11-09T19:35:25-08:00",
  "dates": [
   {
    "date": "20261108",
@@ -7329,27 +7329,85 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Fried Breaded Cod with Tartar Sauce",
-           "tags": [
-            "egg",
-            "fish",
-            "wheat",
-            "gluten"
-           ],
-           "icons": [
-            "Egg",
-            "Fish",
-            "Wheat",
-            "Gluten",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Coleslaw",
            "tags": [
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spicy Waffle Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Garlic Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Paprika Chicken Breast",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Forbidden Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Boca Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Creamy Mushroom Gravy",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10901,27 +10959,39 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Strawberry Shortcake",
+           "name": "Vegan Lemon Sugar Cookies",
            "tags": [
-            "milk",
-            "egg",
             "wheat",
             "gluten",
-            "vegetarian-option",
+            "vegan-option",
             "halal"
            ],
            "icons": [
-            "Milk",
-            "Egg",
             "Wheat",
             "Gluten",
-            "Vegetarian Option",
+            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Boston Cream Pie",
+           "name": "Peach Pie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Cereal Milk Cake",
            "tags": [
             "milk",
             "egg",
@@ -10943,15 +11013,17 @@
            ]
           },
           {
-           "name": "Vegan Lemon Sugar Cookies",
+           "name": "Vegan Midnight Cookie",
            "tags": [
             "wheat",
+            "soybeans",
             "gluten",
             "vegan-option",
             "halal"
            ],
            "icons": [
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Halal",
@@ -13137,7 +13209,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -13694,26 +13766,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -13879,7 +13931,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -14394,7 +14446,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -14618,26 +14670,6 @@
         {
          "name": "Salad Bowl (Built to order)",
          "items": [
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Base - Arugula",
            "tags": [
@@ -15114,7 +15146,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -15655,7 +15687,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -19691,22 +19723,6 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Turkey Corn Dog",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Hot Dog",
            "tags": [
             "wheat",
@@ -19731,6 +19747,22 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Corn Dog",
+           "tags": [
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Low Carbon Footprint"
            ]
           }
@@ -22519,26 +22551,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -23443,26 +23455,6 @@
         {
          "name": "Salad Bowl (Built to order)",
          "items": [
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Base - Arugula",
            "tags": [
@@ -39066,26 +39058,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -39990,26 +39962,6 @@
         {
          "name": "Salad Bowl (Built to order)",
          "items": [
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Base - Arugula",
            "tags": [
@@ -48979,26 +48931,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -49903,26 +49835,6 @@
         {
          "name": "Salad Bowl (Built to order)",
          "items": [
-          {
-           "name": "Pao Bhaji Special",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Base - Arugula",
            "tags": [
