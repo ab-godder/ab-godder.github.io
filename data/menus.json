@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:55:01-08:00",
+ "generated_at": "2026-11-10T13:18:51-08:00",
  "dates": [
   {
    "date": "20261109",
@@ -10078,7 +10078,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10601,18 +10601,12 @@
            ]
           },
           {
-           "name": "Lentil Burrito VEGAN",
+           "name": "Black Bean & Sweet Potato Taco Filling",
            "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
+            "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -10638,6 +10632,16 @@
           },
           {
            "name": "Latin Coleslaw Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Corn Tortilla",
            "tags": [
             "vegan-option"
            ],
@@ -10731,16 +10735,6 @@
            ]
           },
           {
-           "name": "Roasted Zucchini Mushroom",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Assorted Dinner Rolls",
            "tags": [
             "wheat",
@@ -10818,7 +10812,7 @@
            ]
           },
           {
-           "name": "Baked Diced Sweet Potato",
+           "name": "Roasted Peppers",
            "tags": [
             "vegan-option"
            ],
@@ -10828,7 +10822,7 @@
            ]
           },
           {
-           "name": "Roasted Peppers",
+           "name": "Roasted Butternut Squash",
            "tags": [
             "vegan-option"
            ],
@@ -11675,7 +11669,7 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Kheer",
+           "name": "Coconut Kheer",
            "tags": [
             "vegan-option"
            ],
@@ -11739,7 +11733,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11762,18 +11756,6 @@
             "Egg",
             "Vegetarian Option",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mushroom and Kale Eggs Scramble",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -11823,6 +11805,18 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mushroom Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -12111,11 +12105,15 @@
            ]
           },
           {
-           "name": "White Corn Tortillas",
+           "name": "Flour Tortilla",
            "tags": [
+            "wheat",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -12134,16 +12132,6 @@
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Taco Garnish",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -12203,6 +12191,16 @@
           },
           {
            "name": "Guacamole",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Salsa Pico De Gallo",
            "tags": [
             "vegan-option"
            ],
@@ -12302,13 +12300,13 @@
            ]
           },
           {
-           "name": "Halal Chicken Thigh",
+           "name": "Halal Chipotle Chicken Breast",
            "tags": [
             "halal"
            ],
            "icons": [
             "Halal",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -13188,7 +13186,7 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Kheer",
+           "name": "Coconut Kheer",
            "tags": [
             "vegan-option"
            ],
@@ -13268,7 +13266,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -13685,16 +13683,6 @@
            ]
           },
           {
-           "name": "Regular Fries",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Chicken Corn Dog",
            "tags": [
             "egg",
@@ -13707,6 +13695,18 @@
             "Wheat",
             "Soybeans",
             "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Housemade BBQ Potato Chips",
+           "tags": [
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Gluten",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -14331,7 +14331,23 @@
          "name": "Dessert",
          "items": [
           {
-           "name": "Tuxedo Mousse Cake",
+           "name": "Fruits of the Forest Pie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemon Leche Cake",
            "tags": [
             "milk",
             "egg",
@@ -14353,35 +14369,23 @@
            ]
           },
           {
-           "name": "Fruits of the Forest Pie",
+           "name": "Chocolate Whipped Cream Pie",
            "tags": [
+            "milk",
             "wheat",
+            "soybeans",
             "gluten",
-            "vegan-option",
+            "vegetarian-option",
             "halal"
            ],
            "icons": [
+            "Milk",
             "Wheat",
+            "Soybeans",
             "Gluten",
-            "Vegan Option",
+            "Vegetarian Option",
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Oatmeal Raisin Cookie",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -14707,7 +14711,7 @@
            ]
           },
           {
-           "name": "Kheer",
+           "name": "Coconut Kheer",
            "tags": [
             "vegan-option"
            ],
@@ -14757,7 +14761,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -15652,7 +15656,7 @@
            ]
           },
           {
-           "name": "Kheer",
+           "name": "Coconut Kheer",
            "tags": [
             "vegan-option"
            ],
@@ -15681,6 +15685,22 @@
            "icons": [
             "Milk",
             "Tree Nuts",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Gulab Jamun",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
             "Vegetarian Option",
             "Low Carbon Footprint"
            ]
@@ -15758,16 +15778,6 @@
            ]
           },
           {
-           "name": "Basmati Rice Pullao",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Curry Roasted Cauliflower",
            "tags": [
             "vegan-option"
@@ -15776,14 +15786,25 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
+          }
+         ]
+        },
+        {
+         "name": "Iron &  Ember",
+         "items": [
           {
-           "name": "Garbanzo Bean and Squash Vindaloo",
+           "name": "Naan Bread",
            "tags": [
-            "vegan-option"
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "kosher"
            ],
            "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
+            "Kosher",
             "Low Carbon Footprint"
            ]
           },
@@ -15802,18 +15823,32 @@
            ]
           },
           {
-           "name": "Naan Bread",
+           "name": "Plain Papadum",
            "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option",
-            "kosher"
+            "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
-            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Basmati Rice Pullao",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Garbanzo Bean and Squash Vindaloo",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -15938,7 +15973,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -16660,7 +16695,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -17175,7 +17210,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -17838,7 +17873,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -17865,7 +17900,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -18406,7 +18441,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
