@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:55:44-08:00",
+ "generated_at": "2026-11-12T17:50:20-08:00",
  "dates": [
   {
    "date": "20261111",
@@ -5670,16 +5670,6 @@
            ]
           },
           {
-           "name": "Garlic Roasted Cauliflower",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Black Bean and Corn Salad",
            "tags": [
             "vegan-option"
@@ -5787,16 +5777,6 @@
           },
           {
            "name": "Sauteed Mushroom",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Potatoes",
            "tags": [
             "vegan-option"
            ],
@@ -6265,22 +6245,6 @@
            ]
           },
           {
-           "name": "Vegan \"Chicken\" Patty Smothered in Gravy",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Mashed Yukon Potato",
            "tags": [
             "milk",
@@ -6321,6 +6285,22 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Vegan Mediterranean \"Chicken\" Strips",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -6328,13 +6308,11 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Chili Garlic Roasted Chicken",
+           "name": "Kosher Chicken Fajita",
            "tags": [
-            "sesame",
             "kosher"
            ],
            "icons": [
-            "Sesame",
             "Kosher",
             "Medium Carbon Footprint"
            ]
@@ -6350,26 +6328,24 @@
            ]
           },
           {
-           "name": "Asian Coleslaw Salad",
+           "name": "Sauteed Green Beans",
            "tags": [
-            "soybeans",
-            "sesame",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Braised Bok Choy",
+           "name": "Marinated Cucumber and Tomato",
            "tags": [
-            "vegan-option"
+            "vegan-option",
+            "kosher"
            ],
            "icons": [
             "Vegan Option",
+            "Kosher",
             "Low Carbon Footprint"
            ]
           }
@@ -6504,7 +6480,7 @@
            ]
           },
           {
-           "name": "Baked Diced Sweet Potato",
+           "name": "Roasted Asparagus",
            "tags": [
             "vegan-option"
            ],
@@ -8344,16 +8320,6 @@
            ]
           },
           {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Mac & Cheese with Broccoli",
            "tags": [
             "milk",
@@ -8391,13 +8357,6 @@
             "wheat",
             "soybeans",
             "gluten",
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal",
             "vegetarian-option",
             "halal"
            ],
@@ -8407,15 +8366,20 @@
             "Wheat",
             "Soybeans",
             "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Pesto",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
             "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Vegetarian Option",
-            "Halal",
-            "Vegetarian Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -8814,47 +8778,6 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Beverages",
-         "items": [
-          {
-           "name": "Hawaiian Dinner Roll",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
-            "Vegetarian Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -10034,22 +9957,6 @@
             "Halal",
             "Medium Carbon Footprint"
            ]
-          },
-          {
-           "name": "Birria Beef Tacos",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Medium Carbon Footprint"
-           ]
           }
          ]
         }
@@ -10117,20 +10024,6 @@
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Fried Samosa",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10231,6 +10124,39 @@
          ]
         },
         {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Macaroni and Cheese Pasta",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Salmon with Moroccan Charmoula",
+           "tags": [
+            "fish"
+           ],
+           "icons": [
+            "Fish",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Grill",
          "items": [
           {
@@ -10295,24 +10221,6 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Macaroni and Cheese Pasta",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Mac and Cheese Bake",
            "tags": [
             "wheat",
@@ -10339,16 +10247,24 @@
            ]
           },
           {
-           "name": "Assorted Dinner Rolls",
+           "name": "Marinara Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Elbow Macaroni Pasta",
            "tags": [
             "wheat",
-            "gluten",
-            "vegan-option"
+            "gluten"
            ],
            "icons": [
             "Wheat",
             "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -13462,7 +13378,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -14152,7 +14068,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -27334,17 +27250,27 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Grilled Cajun Salmon",
+           "name": "Seared Salmon",
            "tags": [
             "fish"
            ],
            "icons": [
             "Fish",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Cajun Tofu with Chimichurri",
+           "name": "Basmati Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Gomen Collard Greens",
            "tags": [
             "soybeans",
             "vegan-option"
@@ -27356,37 +27282,44 @@
            ]
           },
           {
-           "name": "Dirty Rice",
+           "name": "Tarka Dal",
            "tags": [
-            "soybeans",
             "vegan-option"
            ],
            "icons": [
-            "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Fried Okra",
+           "name": "Palak Paneer",
            "tags": [
-            "egg",
-            "wheat",
-            "gluten",
+            "milk",
             "vegetarian-option"
            ],
            "icons": [
-            "Egg",
-            "Wheat",
-            "Gluten",
+            "Milk",
             "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Sauteed Spinach and Tomato",
-           "tags": [],
+           "name": "Aloo Chole",
+           "tags": [
+            "vegan-option"
+           ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cardamom Roasted Cauliflower",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -27980,15 +27913,15 @@
            ]
           },
           {
-           "name": "Southwest Black Bean Bake",
+           "name": "Soyrizo with Peppers and Onion",
            "tags": [
-            "milk",
-            "vegetarian-option"
+            "soybeans",
+            "vegan-option"
            ],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -28172,9 +28105,12 @@
          "name": "Allergen Friendly",
          "items": [
           {
-           "name": "Baked Smothered Chicken",
-           "tags": [],
+           "name": "Halal Chicken Breast",
+           "tags": [
+            "halal"
+           ],
            "icons": [
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -40369,26 +40305,6 @@
            ]
           },
           {
-           "name": "Chicken Pesto Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Housemade Lemon Pepper Potato Chips",
            "tags": [
             "vegan-option"
@@ -40396,6 +40312,22 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Beef Cheesesteak Sandwich",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -41294,26 +41226,6 @@
            ]
           },
           {
-           "name": "Chicken Pesto Sandwich",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Housemade Lemon Pepper Potato Chips",
            "tags": [
             "vegan-option"
@@ -41321,6 +41233,22 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Beef Cheesesteak Sandwich",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
