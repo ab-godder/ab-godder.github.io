@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T03:01:16-08:00",
+ "generated_at": "2026-11-13T11:43:44-08:00",
  "dates": [
   {
    "date": "20261112",
@@ -10028,7 +10028,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10090,7 +10090,7 @@
            ]
           },
           {
-           "name": "Vegan Italian \"Sausage\"",
+           "name": "Caribbean Vegetable Blend",
            "tags": [
             "vegan-option"
            ],
@@ -10100,12 +10100,14 @@
            ]
           },
           {
-           "name": "Caribbean Vegetable Blend",
+           "name": "Halal Beef Patty",
            "tags": [
-            "vegan-option"
+            "soybeans",
+            "halal"
            ],
            "icons": [
-            "Vegan Option",
+            "Soybeans",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -10551,28 +10553,6 @@
            ]
           },
           {
-           "name": "Black Bean Burger",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Moroccan Honey‑Glazed Carrots",
            "tags": [
             "milk",
@@ -10587,11 +10567,29 @@
            ]
           },
           {
-           "name": "Kosher Mashed Potato",
+           "name": "Steak Fries",
            "tags": [
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Boca Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10616,30 +10614,6 @@
            ]
           },
           {
-           "name": "Aurora Sauce",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Steamed Broccoli and Cauliflower",
            "tags": [
             "vegan-option"
@@ -10650,9 +10624,10 @@
            ]
           },
           {
-           "name": "Garlic Toast",
+           "name": "Hawaiian Dinner Roll",
            "tags": [
             "milk",
+            "egg",
             "wheat",
             "soybeans",
             "gluten",
@@ -10661,11 +10636,38 @@
            ],
            "icons": [
             "Milk",
+            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Primavera Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Creamy Chipotle Sauce",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -10682,16 +10684,6 @@
            "icons": [
             "Halal",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan \"sausage\" Mixed Pepper Stir Fry",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -10725,7 +10717,7 @@
            ]
           },
           {
-           "name": "Roasted Fingerling Potatoes with Artichokes",
+           "name": "Savory Lentils",
            "tags": [
             "vegan-option"
            ],
@@ -10740,7 +10732,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Native Three Sisters Bean Soup",
+           "name": "Tarka Dal Stew",
            "tags": [
             "vegan-option"
            ],
@@ -10750,17 +10742,13 @@
            ]
           },
           {
-           "name": "Broccoli Cheddar Soup",
+           "name": "Fiery Veggie Chili",
            "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
+            "vegan-option"
            ],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Medium Carbon Footprint"
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -11813,7 +11801,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -13580,7 +13568,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -13871,16 +13859,6 @@
            ]
           },
           {
-           "name": "Roasted Carrots Parsnips and Beets",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Sweet Potato",
            "tags": [
             "vegan-option"
@@ -13904,6 +13882,16 @@
           },
           {
            "name": "Sweet Plantains",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Carrots",
            "tags": [
             "vegan-option"
            ],
@@ -14041,16 +14029,24 @@
            ]
           },
           {
-           "name": "Assorted Dinner Rolls",
+           "name": "Hawaiian Dinner Roll",
            "tags": [
+            "milk",
+            "egg",
             "wheat",
+            "soybeans",
             "gluten",
-            "vegan-option"
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
+            "Milk",
+            "Egg",
             "Wheat",
+            "Soybeans",
             "Gluten",
-            "Vegan Option",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -14099,16 +14095,6 @@
            ]
           },
           {
-           "name": "Root Vegetables",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Brown Rice",
            "tags": [
             "vegan-option",
@@ -14128,6 +14114,16 @@
            ],
            "icons": [
             "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Peppers",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15691,7 +15687,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16363,7 +16359,7 @@
            ]
           },
           {
-           "name": "Rice Stick Noodle",
+           "name": "Stir Fried Cabbage",
            "tags": [
             "vegan-option"
            ],
@@ -16373,7 +16369,7 @@
            ]
           },
           {
-           "name": "Sauteed Bok Choy",
+           "name": "Rice Stick Noodle",
            "tags": [
             "vegan-option"
            ],
@@ -16867,7 +16863,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17605,7 +17601,7 @@
     {
      "slug": "the-golden-bear-caf",
      "name": "The Golden Bear Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:30 a.m. - 10:59 a.m.",
       "11:00 a.m. - 7:00 p.m."
@@ -18120,7 +18116,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18783,7 +18779,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -18810,7 +18806,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -19351,7 +19347,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -21598,16 +21594,6 @@
            ]
           },
           {
-           "name": "Grilled Longanisa",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
-            "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Soyrizo Scramble",
            "tags": [
             "soybeans",
@@ -21626,6 +21612,16 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Apple Sausage",
+           "tags": [
+            "pork"
+           ],
+           "icons": [
+            "Pork",
             "Low Carbon Footprint"
            ]
           }
