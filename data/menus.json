@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:28:56-08:00",
+ "generated_at": "2026-11-14T10:04:18-08:00",
  "dates": [
   {
    "date": "20261113",
@@ -11547,11 +11547,9 @@
           {
            "name": "Garlic Fried Rice",
            "tags": [
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11592,18 +11590,6 @@
            ]
           },
           {
-           "name": "Garlic Fried Rice",
-           "tags": [
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Soyrizo Scramble",
            "tags": [
             "soybeans",
@@ -11632,6 +11618,26 @@
            ],
            "icons": [
             "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Tater Tots",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -15459,7 +15465,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
