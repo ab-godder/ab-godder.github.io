@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:04:18-08:00",
+ "generated_at": "2026-11-14T14:25:55-08:00",
  "dates": [
   {
    "date": "20261113",
@@ -9804,7 +9804,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -9920,16 +9920,6 @@
            ]
           },
           {
-           "name": "Vegan Italian \"Sausage\"",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Halal Beef Patty",
            "tags": [
             "soybeans",
@@ -9938,6 +9928,18 @@
            "icons": [
             "Soybeans",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Soyrizo",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -9963,22 +9965,6 @@
             "Soybeans",
             "Gluten",
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Mac and Cheese Bake",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -10012,22 +9998,22 @@
          "name": "Allergen Friendly",
          "items": [
           {
+           "name": "Marinara Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Halal Chicken Breast",
            "tags": [
             "halal"
            ],
            "icons": [
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Plant Based Cheese Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -10077,7 +10063,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Fiery Veggie Chili",
+           "name": "Native Three Sisters Bean Soup",
            "tags": [
             "vegan-option"
            ],
@@ -10087,13 +10073,17 @@
            ]
           },
           {
-           "name": "Southwestern Corn Chowder",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
-            "vegan-option"
+            "milk",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -11506,7 +11496,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -12862,7 +12852,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -14519,7 +14509,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
