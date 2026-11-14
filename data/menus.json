@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T11:43:44-08:00",
+ "generated_at": "2026-11-13T17:27:28-08:00",
  "dates": [
   {
    "date": "20261112",
@@ -11230,16 +11230,6 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          },
-          {
-           "name": "Sauteed Zucchini & Onion Sauteed",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
           }
          ]
         },
@@ -11385,17 +11375,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Native Three Sisters Bean Soup",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Broccoli Cheddar Soup",
+           "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
             "vegetarian-option",
@@ -11405,7 +11385,17 @@
             "Milk",
             "Vegetarian Option",
             "Halal",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tuscan Mushroom Bean Soup",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -16159,16 +16149,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Chicken Green Chile Chowder",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "High Carbon Footprint"
-           ]
-          },
-          {
            "name": "Minestrone Soup",
            "tags": [
             "wheat",
@@ -16180,6 +16160,13 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Turkey and Bean Chili",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -18116,7 +18103,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18806,7 +18793,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -22925,25 +22912,7 @@
          "name": "Pizza",
          "items": [
           {
-           "name": "Four Cheese Andouille Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Margherita Pizza",
+           "name": "Cheese Pizza",
            "tags": [
             "milk",
             "wheat",
@@ -22957,6 +22926,24 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pepperoni Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -36194,16 +36181,6 @@
            ]
           },
           {
-           "name": "Housemade Lemon Pepper Potato Chips",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Beef Cheesesteak Sandwich",
            "tags": [
             "milk",
@@ -36217,6 +36194,16 @@
             "Soybeans",
             "Gluten",
             "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Crinkle Potato Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
