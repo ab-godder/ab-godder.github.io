@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:25:55-08:00",
+ "generated_at": "2026-11-14T22:35:40-08:00",
  "dates": [
   {
    "date": "20261113",
@@ -9804,7 +9804,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -10972,22 +10972,6 @@
            ]
           },
           {
-           "name": "Vegan Mac and Cheese Bake",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sauteed Green Beans",
            "tags": [
             "vegan-option"
@@ -11010,6 +10994,16 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Marinara Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -11024,16 +11018,6 @@
            "icons": [
             "Halal",
             "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Italian \"Sausage\"",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
            ]
           },
           {
@@ -11077,24 +11061,9 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
-          }
-         ]
-        },
-        {
-         "name": "Soup",
-         "items": [
-          {
-           "name": "Southwestern Corn Chowder",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
           },
           {
-           "name": "Fiery Veggie Chili",
+           "name": "Black Eyed Peas",
            "tags": [
             "vegan-option"
            ],
@@ -11496,7 +11465,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -12852,7 +12821,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -13747,16 +13716,6 @@
            ]
           },
           {
-           "name": "Aloo Chole",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Basmati Rice",
            "tags": [
             "vegan-option"
@@ -13932,27 +13891,23 @@
            ]
           },
           {
-           "name": "Lobster Bisque",
+           "name": "Grandma Mary's Chicken Soup",
            "tags": [
-            "milk",
             "egg",
-            "fish",
-            "shellfish",
             "wheat",
-            "soybeans",
             "gluten",
-            "alcohol"
+            "egg",
+            "wheat",
+            "gluten"
            ],
            "icons": [
-            "Milk",
             "Egg",
-            "Fish",
-            "Shellfish",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Alcohol",
-            "High Carbon Footprint"
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -14401,6 +14356,26 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Grandma Mary's Chicken Soup",
+           "tags": [
+            "egg",
+            "wheat",
+            "gluten",
+            "egg",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
+           ]
           }
          ]
         },
@@ -14509,7 +14484,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -15210,22 +15185,6 @@
            ]
           },
           {
-           "name": "Vegan Onion Pepper and \"Beef\"",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Mexican Vegetable Blend",
            "tags": [
             "vegan-option"
@@ -15264,6 +15223,22 @@
            ],
            "icons": [
             "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Latin-style Sauteed Chicken Vegan",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
@@ -15455,7 +15430,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
