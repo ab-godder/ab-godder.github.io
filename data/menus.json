@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T08:22:48-08:00",
+ "generated_at": "2026-11-15T14:50:18-08:00",
  "dates": [
   {
    "date": "20261114",
@@ -5691,7 +5691,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -7456,7 +7456,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -8206,16 +8206,6 @@
          "name": "Appetizers/Condiments",
          "items": [
           {
-           "name": "Yucca Fries",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Mojo Aioli Sauce",
            "tags": [
             "egg",
@@ -8224,6 +8214,16 @@
            "icons": [
             "Egg",
             "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steak Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -8798,7 +8798,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 4:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
@@ -8811,55 +8811,51 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Scrambled Eggs",
-           "tags": [
-            "egg",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Egg",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cheddar Eggs Scramble",
+           "name": "Texas-style Breakfast Taco",
            "tags": [
             "milk",
             "egg",
-            "vegetarian-option"
+            "wheat",
+            "gluten",
+            "pork"
            ],
            "icons": [
             "Milk",
             "Egg",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sweet Potato Tater Tots",
-           "tags": [
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Pork Sausage Link",
-           "tags": [
-            "pork"
-           ],
-           "icons": [
+            "Wheat",
+            "Gluten",
             "Pork",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Vegan Breakfast \"Sausage\" Patty",
+           "name": "Soyrizo with Peppers and Onion",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Texas-style Breakfast Taco",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mexican Rice",
            "tags": [
             "vegan-option"
            ],
@@ -8869,17 +8865,7 @@
            ]
           },
           {
-           "name": "Roasted Brussels Sprouts and Red Pepper",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mung Bean Patty",
+           "name": "Refried Beans",
            "tags": [
             "vegan-option"
            ],
@@ -8891,15 +8877,58 @@
          ]
         },
         {
+         "name": "Pizza",
+         "items": [
+          {
+           "name": "Cheese Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Bacon and Mushroom Pizza with Truffle Oil",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Midday Mains",
          "items": [
           {
-           "name": "Chicken Tenders",
+           "name": "Chicken Fried Steak with Gravy",
            "tags": [
+            "milk",
             "wheat",
             "gluten"
            ],
            "icons": [
+            "Milk",
             "Wheat",
             "Gluten",
             "Low Carbon Footprint"
@@ -8948,6 +8977,52 @@
          ]
         },
         {
+         "name": "While It Last Center Plate",
+         "items": [
+          {
+           "name": "Roasted Tandoori Salmon",
+           "tags": [
+            "milk",
+            "fish"
+           ],
+           "icons": [
+            "Milk",
+            "Fish",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Beef Bulgogi",
+           "tags": [
+            "soybeans",
+            "sesame"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Brown Rice Pilaf",
+           "tags": [],
+           "icons": [
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sweet Plantains",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Grill",
          "items": [
           {
@@ -8969,22 +9044,6 @@
             "Gluten",
             "Vegetarian Option",
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan French Toast",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -9079,7 +9138,7 @@
            ]
           },
           {
-           "name": "Roasted Cherry Tomato",
+           "name": "Squash Medley",
            "tags": [
             "vegan-option"
            ],
@@ -9089,7 +9148,7 @@
            ]
           },
           {
-           "name": "Stir Fried Cabbage",
+           "name": "Brussels Sprouts",
            "tags": [
             "vegan-option"
            ],
@@ -9588,13 +9647,6 @@
            ]
           },
           {
-           "name": "Fire Braised Chicken Breast",
-           "tags": [],
-           "icons": [
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Baked BBQ Tofu",
            "tags": [
             "soybeans",
@@ -9602,6 +9654,44 @@
            ],
            "icons": [
             "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Housemade Macaroni and Cheese Pasta",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Shoestring Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Corn",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -9623,52 +9713,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Steamed Corn Cob",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Macaroni and Cheese Pasta",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Fried Onion Rings",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -9699,6 +9743,24 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Creamy Garlic Sauce",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           },
           {
@@ -9768,15 +9830,13 @@
            ]
           },
           {
-           "name": "Baby Kale with Lemon and Olive Oil",
+           "name": "Sauteed Kale",
            "tags": [
-            "milk",
-            "vegetarian-option"
+            "vegan-option"
            ],
            "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           },
           {
@@ -9795,20 +9855,6 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Minestrone Soup",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Tomato Bisque Soup",
            "tags": [
             "milk",
@@ -9819,6 +9865,16 @@
             "Milk",
             "Vegetarian Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tuscan Mushroom Bean Soup",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -10382,7 +10438,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
