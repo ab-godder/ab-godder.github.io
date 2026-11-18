@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:44:45-08:00",
+ "generated_at": "2026-11-18T12:33:38-08:00",
  "dates": [
   {
    "date": "20261117",
@@ -9860,7 +9860,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10505,13 +10505,11 @@
            ]
           },
           {
-           "name": "Ginger Burmese Salad",
+           "name": "Latin Coleslaw Salad",
            "tags": [
-            "sesame",
             "vegan-option"
            ],
            "icons": [
-            "Sesame",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11760,7 +11758,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -13571,7 +13569,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -14015,38 +14013,6 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Meat Lasagna",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Kale Lasagna with Mushroom",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Garlic Roasted Broccolini",
            "tags": [
             "vegan-option"
@@ -14069,6 +14035,36 @@
             "Gluten",
             "Vegan Option",
             "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Penne Pasta",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Beef Meatball Marinara",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Low Carbon Footprint"
            ]
           }
@@ -14817,48 +14813,6 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Beef Burger with 1000 Island",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetarian Malibu Oski Burger",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Sweet Potato Fries",
            "tags": [
             "vegan-option"
@@ -14869,12 +14823,46 @@
            ]
           },
           {
-           "name": "Carmalized Onions",
+           "name": "Spicy Fried Chicken Sandwich",
            "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chicken Tenders",
+           "tags": [
+            "wheat",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Honey Hot Sauce Mayonnaise",
+           "tags": [
+            "egg",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -15534,7 +15522,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -16757,7 +16745,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17479,7 +17467,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18142,7 +18130,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -18169,7 +18157,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -18710,7 +18698,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -24857,21 +24845,20 @@
             "wheat",
             "soybeans",
             "gluten",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
             "Soybeans",
             "Gluten",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Vegan Option",
-            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Turkey Breast",
+           "tags": [],
+           "icons": [
             "Low Carbon Footprint"
            ]
           },
@@ -24892,31 +24879,6 @@
            ]
           },
           {
-           "name": "Cornbread Stuffing",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Turkey Breast",
-           "tags": [],
-           "icons": [
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Halal Chimichuri Tri Tip",
            "tags": [
             "halal"
@@ -24931,44 +24893,6 @@
         {
          "name": "Iron &  Ember",
          "items": [
-          {
-           "name": "Assorted Dinner Rolls",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mashed Potatoes with Gravy",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Garlic Green Beans",
            "tags": [
@@ -24990,7 +24914,7 @@
            ]
           },
           {
-           "name": "Pumpkin Curry Pizza",
+           "name": "Cornbread Stuffing",
            "tags": [
             "milk",
             "wheat",
@@ -25004,7 +24928,7 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Medium Carbon Footprint"
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -25012,36 +24936,6 @@
         {
          "name": "Pure Plates",
          "items": [
-          {
-           "name": "Halal Roasted Tri Tip",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Halal Chicken Breast",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Savory Lentils",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Steamed Potato",
            "tags": [
@@ -25060,6 +24954,73 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Savory Lentils",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chicken Breast",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Roasted Tri Tip",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Fire & Flour",
+         "items": [
+          {
+           "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Curry Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -32372,48 +32333,50 @@
          "name": "Grill",
          "items": [
           {
-           "name": "Pollock Sandwich",
-           "tags": [
-            "egg",
-            "fish",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "sesame"
-           ],
-           "icons": [
-            "Egg",
-            "Fish",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Sesame",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Bombay Sandwich",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Housemade Potato Chips",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Malibu Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spare Smash Burger",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Low Carbon Footprint"
            ]
           }
