@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:42:05-08:00",
+ "generated_at": "2026-11-19T12:39:45-08:00",
  "dates": [
   {
    "date": "20261118",
@@ -9588,7 +9588,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10195,7 +10195,7 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Chipotle Turkey Breast",
+           "name": "Kosher Chicken Fajita",
            "tags": [
             "kosher"
            ],
@@ -10205,7 +10205,7 @@
            ]
           },
           {
-           "name": "Roasted Potatoes",
+           "name": "Steamed Potato",
            "tags": [
             "vegan-option"
            ],
@@ -11251,7 +11251,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -11595,18 +11595,6 @@
            ]
           },
           {
-           "name": "Baked Tandoori Tofu",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Turmeric Basmati Rice with Caramelized Onion",
            "tags": [
             "vegan-option"
@@ -11636,6 +11624,28 @@
            "icons": [
             "Wheat",
             "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Palak Paneer",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Aloo Chole",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -12768,7 +12778,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -13186,6 +13196,24 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Vegetable Potstickers",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -13237,20 +13265,16 @@
            ]
           },
           {
-           "name": "Breadsticks",
+           "name": "Assorted Dinner Rolls",
            "tags": [
-            "milk",
             "wheat",
-            "soybeans",
             "gluten",
-            "vegetarian-option"
+            "vegan-option"
            ],
            "icons": [
-            "Milk",
             "Wheat",
-            "Soybeans",
             "Gluten",
-            "Vegetarian Option",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -13306,24 +13330,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Breadsticks",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
             "Low Carbon Footprint"
            ]
           }
@@ -14373,7 +14379,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14911,7 +14917,7 @@
            ]
           },
           {
-           "name": "Bean Chili",
+           "name": "Cauliflower Masala Soup",
            "tags": [
             "vegan-option"
            ],
@@ -15038,53 +15044,6 @@
            ],
            "icons": [
             "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Fire & Flour",
-         "items": [
-          {
-           "name": "Fettucini Alfredo Pasta",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Kale Pesto Fettuccine",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Steamed Broccoli",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15562,7 +15521,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -16284,7 +16243,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -16947,7 +16906,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -16974,7 +16933,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -17515,7 +17474,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -29078,23 +29037,17 @@
            ]
           },
           {
-           "name": "Vegan Mediterranean \"Chicken\" Strips",
+           "name": "Sauteed Carrot and Kale",
            "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Sauteed Carrot and Kale",
+           "name": "Tarka Dal",
            "tags": [
             "vegan-option"
            ],
@@ -38903,16 +38856,6 @@
            ],
            "icons": [
             "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Kosher Mashed Potato",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -59279,16 +59222,6 @@
           },
           {
            "name": "Medium Grain Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Summer Squash Blend",
            "tags": [
             "vegan-option"
            ],
