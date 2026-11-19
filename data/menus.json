@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:33:38-08:00",
+ "generated_at": "2026-11-18T18:35:07-08:00",
  "dates": [
   {
    "date": "20261117",
@@ -6375,6 +6375,93 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       },
@@ -11339,35 +11426,6 @@
          ]
         },
         {
-         "name": "Soup",
-         "items": [
-          {
-           "name": "Bean Chili",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Tomato Bisque Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
          "name": "Salad Bar",
          "items": [
           {
@@ -14067,6 +14125,16 @@
             "Gluten",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Marinara Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -14139,21 +14207,21 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Grandma Mary's Chicken Soup",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
-            "egg",
-            "wheat",
-            "gluten"
+            "milk",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
-            "Egg",
-            "Wheat",
-            "Gluten",
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
             "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Southwestern Corn Chowder",
+           "name": "Bean Chili",
            "tags": [
             "vegan-option"
            ],
@@ -14671,6 +14739,71 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Dessert",
+         "items": [
+          {
+           "name": "Cinnamon Cereal Milk Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Triple Berry Crumble Bar",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "kosher"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chocolate Chip Cookie",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       },
@@ -14810,10 +14943,10 @@
          ]
         },
         {
-         "name": "Grill",
+         "name": "While It Last Centerplate",
          "items": [
           {
-           "name": "Sweet Potato Fries",
+           "name": "Jasmine Rice",
            "tags": [
             "vegan-option"
            ],
@@ -14822,6 +14955,31 @@
             "Low Carbon Footprint"
            ]
           },
+          {
+           "name": "Mexican Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Lemon Ricotta Chicken",
+           "tags": [
+            "milk"
+           ],
+           "icons": [
+            "Milk",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Grill",
+         "items": [
           {
            "name": "Spicy Fried Chicken Sandwich",
            "tags": [
@@ -14865,6 +15023,16 @@
             "Halal",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Sweet Potato Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -14888,16 +15056,14 @@
            ]
           },
           {
-           "name": "Kale Lasagna with Mushroom",
+           "name": "Marinara Penne Pasta",
            "tags": [
             "wheat",
-            "soybeans",
             "gluten",
             "vegan-option"
            ],
            "icons": [
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
@@ -14998,21 +15164,21 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Grandma Mary's Chicken Soup",
+           "name": "New England Clam Chowder",
            "tags": [
-            "egg",
-            "wheat",
-            "gluten"
+            "milk",
+            "shellfish",
+            "halal"
            ],
            "icons": [
-            "Egg",
-            "Wheat",
-            "Gluten",
-            "Medium Carbon Footprint"
+            "Milk",
+            "Shellfish",
+            "Halal",
+            "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Southwestern Corn Chowder",
+           "name": "Split Pea Soup",
            "tags": [
             "vegan-option"
            ],
@@ -15751,6 +15917,93 @@
            ],
            "icons": [
             "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
@@ -16745,7 +16998,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -17467,7 +17720,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -18157,7 +18410,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -18698,7 +18951,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -20760,12 +21013,12 @@
            "tags": [
             "milk",
             "vegetarian-option",
-            "kosher"
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Kosher",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -22277,12 +22530,12 @@
            "tags": [
             "milk",
             "vegetarian-option",
-            "kosher"
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Kosher",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -23882,12 +24135,12 @@
            "tags": [
             "milk",
             "vegetarian-option",
-            "kosher"
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Kosher",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -24147,6 +24400,93 @@
            "tags": [],
            "icons": [
             "High Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
            ]
           }
          ]
@@ -24759,12 +25099,12 @@
            "tags": [
             "milk",
             "vegetarian-option",
-            "kosher"
+            "halal"
            ],
            "icons": [
             "Milk",
             "Vegetarian Option",
-            "Kosher",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -31370,70 +31710,68 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Pork Ramen Noodles",
+           "name": "Korean Style Fried Chicken",
            "tags": [
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
             "alcohol",
-            "sesame",
-            "pork"
+            "sesame"
            ],
            "icons": [
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Alcohol",
             "Sesame",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Korean-style Tofu",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pork Char Siu Bao",
+           "tags": [
+            "shellfish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "pork"
+           ],
+           "icons": [
+            "Shellfish",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Ramen",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Medium Grain Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Eggroll",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -32260,70 +32598,68 @@
          "name": "Lemongrass",
          "items": [
           {
-           "name": "Pork Ramen Noodles",
+           "name": "Korean Style Fried Chicken",
            "tags": [
-            "egg",
             "wheat",
             "soybeans",
             "gluten",
             "alcohol",
-            "sesame",
-            "pork"
+            "sesame"
            ],
            "icons": [
-            "Egg",
             "Wheat",
             "Soybeans",
             "Gluten",
             "Alcohol",
             "Sesame",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Korean-style Tofu",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pork Char Siu Bao",
+           "tags": [
+            "shellfish",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "pork"
+           ],
+           "icons": [
+            "Shellfish",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
             "Pork",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Ramen",
-           "tags": [
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "alcohol",
-            "vegan-option"
-           ],
-           "icons": [
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Alcohol",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Medium Grain Rice",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegetable Eggroll",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -33288,6 +33624,93 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -54365,6 +54788,93 @@
            ]
           }
          ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
         }
        ]
       },
@@ -63799,6 +64309,93 @@
            ],
            "icons": [
             "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bread Bar",
+         "items": [
+          {
+           "name": "Sliced Whole Wheat Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Sourdough Bread",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Buttermilk Bread",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced White Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
