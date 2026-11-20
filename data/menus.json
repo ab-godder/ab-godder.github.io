@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:39:45-08:00",
+ "generated_at": "2026-11-19T18:20:09-08:00",
  "dates": [
   {
    "date": "20261118",
@@ -14015,6 +14015,16 @@
            ]
           },
           {
+           "name": "Cranberry Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Assorted Dinner Rolls",
            "tags": [
             "wheat",
@@ -14024,16 +14034,6 @@
            "icons": [
             "Wheat",
             "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Cranberry Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -14123,6 +14123,38 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Native Three Sisters Bean Soup",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Butternut Squash With Apple Confit Soup",
+           "tags": [
+            "milk",
+            "alcohol",
+            "milk",
+            "alcohol",
+            "vegetarian-option",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Alcohol",
+            "Milk",
+            "Alcohol",
+            "Vegetarian Option",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -14178,6 +14210,24 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Gluten Free Chocolate Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "soybeans",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Soybeans",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -14187,9 +14237,11 @@
           {
            "name": "Native Three Sisters Bean Soup",
            "tags": [
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -14199,11 +14251,17 @@
            "tags": [
             "milk",
             "alcohol",
+            "milk",
+            "alcohol",
+            "vegetarian-option",
             "vegetarian-option"
            ],
            "icons": [
             "Milk",
             "Alcohol",
+            "Milk",
+            "Alcohol",
+            "Vegetarian Option",
             "Vegetarian Option",
             "Low Carbon Footprint"
            ]
@@ -15521,7 +15579,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -16243,7 +16301,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -16933,7 +16991,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -17474,7 +17532,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
