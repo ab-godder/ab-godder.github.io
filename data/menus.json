@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:42:22-08:00",
+ "generated_at": "2026-11-20T12:23:23-08:00",
  "dates": [
   {
    "date": "20261119",
@@ -3322,26 +3322,6 @@
         {
          "name": "Griddle/Grill",
          "items": [
-          {
-           "name": "Belgian Waffle",
-           "tags": [
-            "milk",
-            "egg",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Egg",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Syrup",
            "tags": [
@@ -8382,7 +8362,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -8430,20 +8410,6 @@
            ]
           },
           {
-           "name": "Vegan Quiche",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Vegan Italian \"Sausage\"",
            "tags": [
             "vegan-option"
@@ -8459,6 +8425,18 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Creamy Polenta",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -8962,79 +8940,6 @@
            ],
            "icons": [
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Pasta",
-         "items": [
-          {
-           "name": "Farfalle Pasta",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Aurora Sauce",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Steamed Broccoli and Cauliflower",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Toast",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -10176,7 +10081,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -10753,6 +10658,16 @@
            ]
           },
           {
+           "name": "Marinara Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Beef Meatball Marinara",
            "tags": [
             "milk",
@@ -10774,30 +10689,6 @@
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Alfredo Sauce",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Garlic Naan",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -11982,7 +11873,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m.",
@@ -12067,7 +11958,19 @@
          "name": "Griddle/Grill",
          "items": [
           {
-           "name": "Apple Filled Pancake",
+           "name": "Syrup",
+           "tags": [
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Blueberry Filled Pancake",
            "tags": [
             "milk",
             "egg",
@@ -12083,18 +11986,6 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Syrup",
-           "tags": [
-            "vegan-option",
-            "halal"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -13997,7 +13888,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
@@ -14725,23 +14616,7 @@
          "name": "Fire & Flour",
          "items": [
           {
-           "name": "Greek Chicken Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Mushroom Pizza",
+           "name": "Cheese Pizza",
            "tags": [
             "milk",
             "wheat",
@@ -14755,6 +14630,24 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pepperoni Pizza",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
             "Medium Carbon Footprint"
            ]
           }
@@ -15327,7 +15220,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "11:00 a.m. - 6:00 p.m."
      ],
@@ -16065,7 +15958,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 5:00 p.m."
@@ -16728,7 +16621,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 8:00 p.m."
      ],
@@ -16755,7 +16648,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -17296,7 +17189,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 6:00 p.m."
@@ -17756,43 +17649,29 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal Chimichuri Grilled Tri Tip",
+           "name": "Halal Curried Chicken Breast",
            "tags": [
             "halal"
            ],
            "icons": [
             "Halal",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Seasoned Black Beans",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Latin-style Sauteed Chicken Vegan",
+           "name": "Halal Vegan Baked Tandoori Tofu",
            "tags": [
-            "wheat",
             "soybeans",
-            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Wheat",
             "Soybeans",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Cilantro and Lime Rice",
+           "name": "Basmati Rice",
            "tags": [
             "vegan-option"
            ],
@@ -17802,7 +17681,7 @@
            ]
           },
           {
-           "name": "Sauteed Corn Pepper Mexicali",
+           "name": "Curry Roasted Cauliflower",
            "tags": [
             "vegan-option"
            ],
@@ -17812,15 +17691,11 @@
            ]
           },
           {
-           "name": "Flour Tortilla",
+           "name": "Steamed Peas and Carrots",
            "tags": [
-            "wheat",
-            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -17966,16 +17841,6 @@
           },
           {
            "name": "Kidney Beans",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Rice Congee",
            "tags": [
             "vegan-option"
            ],
@@ -23535,29 +23400,43 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal Curried Chicken Breast",
+           "name": "Halal Chimichuri Grilled Tri Tip",
            "tags": [
             "halal"
            ],
            "icons": [
             "Halal",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Seasoned Black Beans",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Baked Tandoori Tofu",
+           "name": "Latin-style Sauteed Chicken Vegan",
            "tags": [
+            "wheat",
             "soybeans",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
+            "Wheat",
             "Soybeans",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Citrus Basmati Rice",
+           "name": "Cilantro and Lime Rice",
            "tags": [
             "vegan-option"
            ],
@@ -23567,7 +23446,7 @@
            ]
           },
           {
-           "name": "Cumin Roasted Cauliflower",
+           "name": "Sauteed Corn Pepper Mexicali",
            "tags": [
             "vegan-option"
            ],
@@ -23577,11 +23456,15 @@
            ]
           },
           {
-           "name": "Steamed Mint Peas",
+           "name": "Flour Tortilla",
            "tags": [
+            "wheat",
+            "gluten",
             "vegan-option"
            ],
            "icons": [
+            "Wheat",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -63125,108 +63008,6 @@
             "Gluten",
             "Vegan Option",
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "slug": "foothill",
-     "name": "Foothill",
-     "status": "Now Closed",
-     "hours": [
-      "7:00 a.m. - 10:00 a.m."
-     ],
-     "meals": [
-      {
-       "name": "Fall - Breakfast",
-       "categories": [
-        {
-         "name": "Bread Bar",
-         "items": [
-          {
-           "name": "Sliced Whole Wheat Bread",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Sourdough Bread",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Buttermilk Bread",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Whole Wheat Vegan Bread",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced White Bread",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
