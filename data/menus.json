@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:17:17-08:00",
+ "generated_at": "2026-11-21T17:20:59-08:00",
  "dates": [
   {
    "date": "20261120",
@@ -50,10 +50,525 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mushroom and Kale Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Potato Wedges",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Italian \"Sausage\"",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Creamy Polenta",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "French Toast",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Pastries",
+         "items": [
+          {
+           "name": "Halal Assorted Mini Danish",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
@@ -9920,22 +10435,6 @@
            ]
           },
           {
-           "name": "Gardein Strip Fajitas",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Cilantro and Lime Rice",
            "tags": [
             "vegan-option"
@@ -9978,6 +10477,18 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Halal Vegan Baked Tandoori Tofu",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -9994,16 +10505,6 @@
            "icons": [
             "Wheat",
             "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Puttanesca Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10027,16 +10528,6 @@
            ]
           },
           {
-           "name": "Sauteed Green Beans",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Assorted Dinner Rolls",
            "tags": [
             "wheat",
@@ -10046,6 +10537,32 @@
            "icons": [
             "Wheat",
             "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Beef Chili Mac",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Maple Roasted Delicata Squash",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -10062,16 +10579,6 @@
            ],
            "icons": [
             "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Plant Based Cheese Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
@@ -10107,6 +10614,16 @@
           },
           {
            "name": "Steamed Broccoli",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Housemade Marinara Sauce",
            "tags": [
             "vegan-option"
            ],
@@ -12895,28 +13412,6 @@
          "name": "Centerplate",
          "items": [
           {
-           "name": "Chicken Enchiladas with Red Sauce",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Soyrizo with Peppers and Onion",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Baked Vegan Protein Red Sauce Enchilada",
            "tags": [
             "wheat",
@@ -12943,16 +13438,6 @@
            ]
           },
           {
-           "name": "Sauteed Corn Pepper Mexicali",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Mexican Rice",
            "tags": [
             "vegan-option"
@@ -12968,6 +13453,62 @@
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Enchiladas with Red Sauce",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Cumin Butternut Squash",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kosher Baked Rockfish with Pineapple Salsa",
+           "tags": [
+            "fish",
+            "halal"
+           ],
+           "icons": [
+            "Fish",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan \"Chicken\" Tinga",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -13075,9 +13616,11 @@
           {
            "name": "Roasted Cumin Butternut Squash",
            "tags": [
+            "vegan-option",
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -13631,47 +14174,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          }
-         ]
-        },
-        {
-         "name": "Pizza",
-         "items": [
-          {
-           "name": "Cheese Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "vegetarian-option"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Vegetarian Option",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sausage and Onion Pizza",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten",
-            "pork"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "Pork",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -14368,23 +14870,20 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Split Pea Soup",
+           "name": "Turkey and Bean Chili",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tuscan Mushroom Bean Soup",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Green Chile Chowder",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "High Carbon Footprint"
            ]
           }
          ]
@@ -14431,7 +14930,7 @@
            ]
           },
           {
-           "name": "Red Beans and Rice",
+           "name": "Cilantro and Lime Rice",
            "tags": [
             "vegan-option"
            ],
@@ -14441,7 +14940,7 @@
            ]
           },
           {
-           "name": "Cilantro and Lime Rice",
+           "name": "Seasoned Black Beans",
            "tags": [
             "vegan-option"
            ],
@@ -20392,10 +20891,498 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cheddar Eggs Scramble",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fried Tater Tots",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Soyrizo Scramble",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Turkey Strip",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "French Toast",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
@@ -29607,10 +30594,504 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegetable and Cheese Eggs Scramble",
+           "tags": [
+            "milk",
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Potato Wedges",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mung Bean Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Italian \"Sausage\"",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Root Veggies",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Beef Sausage Link",
+           "tags": [
+            "soybeans",
+            "halal"
+           ],
+           "icons": [
+            "Soybeans",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "Bread Pudding",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
@@ -38526,10 +40007,508 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Red Pepper and Onion Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mexican Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spinach Tofu Tomato Scramble",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Soyrizo with Peppers and Onion",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Turkey Strip",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "French Toast",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
@@ -46059,10 +48038,502 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spinach and Tomato Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hash Brown Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mung Bean Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Breakfast \"Sausage\" Patty",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Root Veggies",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Beef Patty",
+           "tags": [
+            "soybeans",
+            "halal"
+           ],
+           "icons": [
+            "Soybeans",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "Bread Pudding",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
@@ -49230,10 +51701,494 @@
      "name": "Café 3",
      "status": "Now Closed",
      "hours": [
+      "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m.",
       "4:30 p.m. - 9:00 p.m."
      ],
      "meals": [
+      {
+       "name": "Fall - Breakfast",
+       "categories": [
+        {
+         "name": "Center Plate",
+         "items": [
+          {
+           "name": "Scrambled Eggs",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mushroom and Kale Eggs Scramble",
+           "tags": [
+            "egg",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Potato Wedges",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Breakfast Tostada",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Italian \"Sausage\"",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Caribbean Vegetable Blend",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Griddle/Grill",
+         "items": [
+          {
+           "name": "French Toast",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Hot Cereal/Grains",
+         "items": [
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Oatmeal",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Made To Order",
+         "items": [
+          {
+           "name": "Waffles",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bagels/Breads",
+         "items": [
+          {
+           "name": "Everything Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cinnamon Raisin Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plain Bagels",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Whole Wheat Vegan Bread",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Cold Food Bar",
+         "items": [
+          {
+           "name": "Non Fat Plain Greek Yogurt",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Whipped Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sun Dried Tomato Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chive Cream Cheese",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seed Butter",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Unsalted Butter",
+           "tags": [
+            "milk",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Strawberry Jelly",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Raisins",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Pumpkin Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sunflower Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chia Seeds",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Almond",
+           "tags": [
+            "tree-nuts",
+            "vegan-option"
+           ],
+           "icons": [
+            "Tree Nuts",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Dried Cranberry",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Hummus",
+           "tags": [
+            "soybeans",
+            "sesame",
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Sesame",
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Tomato",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Cucumber",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mashed Avocado with Lemon",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Sliced Radish",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Orange",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Banana",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Apple",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Balsamic Vinegar Glaze",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
       {
        "name": "Fall - Lunch",
        "categories": [
