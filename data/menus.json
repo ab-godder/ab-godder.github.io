@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:42:39-08:00",
+ "generated_at": "2026-11-22T17:44:57-08:00",
  "dates": [
   {
    "date": "20261121",
@@ -5972,18 +5972,6 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Chicken Adobo Stew",
-           "tags": [
-            "soybeans",
-            "kosher"
-           ],
-           "icons": [
-            "Soybeans",
-            "Kosher",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Garlic Fried Rice",
            "tags": [
             "vegan-option"
@@ -6015,6 +6003,18 @@
             "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kosher Beef Brisket",
+           "tags": [
+            "soybeans",
+            "kosher"
+           ],
+           "icons": [
+            "Soybeans",
+            "Kosher",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -6881,18 +6881,6 @@
            ]
           },
           {
-           "name": "Fried Orange Tofu",
-           "tags": [
-            "soybeans",
-            "vegan-option"
-           ],
-           "icons": [
-            "Soybeans",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "Long Grain Rice",
            "tags": [
             "vegan-option"
@@ -6903,21 +6891,37 @@
            ]
           },
           {
-           "name": "Garlic Roasted Gai Lan",
+           "name": "Fried Teriyaki Tofu",
            "tags": [
             "soybeans",
             "sesame",
-            "vegan-option"
+            "vegan-option",
+            "halal"
            ],
            "icons": [
             "Soybeans",
             "Sesame",
             "Vegan Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Steamed Carrots with Parsley",
+           "name": "Roasted Brussels Sprouts",
+           "tags": [
+            "vegan-option",
+            "halal",
+            "kosher"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Broccoli and Cauliflower",
            "tags": [
             "vegan-option"
            ],
@@ -6932,47 +6936,43 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Chicken Pozole",
+           "name": "Cinnamon Glazed Carrots",
            "tags": [
-            "kosher"
+            "soybeans",
+            "vegan-option"
            ],
            "icons": [
-            "Kosher",
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Tomato Couscous Salad",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Grilled Cajun Salmon",
+           "tags": [
+            "fish"
+           ],
+           "icons": [
+            "Fish",
             "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Yellow Tortilla Chip",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Roasted Tomato Salsa",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sauteed Zucchini & Onion Sauteed",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "White Bean Salsa",
+           "name": "Medium Grain Rice",
            "tags": [
             "vegan-option"
            ],
@@ -6987,7 +6987,7 @@
          "name": "Pasta",
          "items": [
           {
-           "name": "Farfalle Pasta",
+           "name": "Rigatoni Pasta",
            "tags": [
             "wheat",
             "gluten",
@@ -6997,24 +6997,6 @@
             "Wheat",
             "Gluten",
             "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Alfredo Sauce",
-           "tags": [
-            "milk",
-            "wheat",
-            "gluten",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Gluten",
-            "Vegetarian Option",
-            "Halal",
             "Low Carbon Footprint"
            ]
           },
@@ -7039,24 +7021,34 @@
            ]
           },
           {
-           "name": "Hawaiian Dinner Roll",
+           "name": "Creamy Garlic Sauce",
            "tags": [
             "milk",
-            "egg",
             "wheat",
-            "soybeans",
             "gluten",
             "vegetarian-option",
             "halal"
            ],
            "icons": [
             "Milk",
-            "Egg",
             "Wheat",
-            "Soybeans",
             "Gluten",
             "Vegetarian Option",
             "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Assorted Dinner Rolls",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -7131,6 +7123,20 @@
          "name": "Soup",
          "items": [
           {
+           "name": "Minestrone Soup",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Native Three Sisters Bean Soup",
            "tags": [
             "vegan-option"
@@ -7138,20 +7144,6 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Broccoli Cheddar Soup",
-           "tags": [
-            "milk",
-            "vegetarian-option",
-            "halal"
-           ],
-           "icons": [
-            "Milk",
-            "Vegetarian Option",
-            "Halal",
-            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -8995,6 +8987,13 @@
            ]
           },
           {
+           "name": "Harissa Roasted Chicken",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
            "name": "Vegan Celebration \"Roast\"",
            "tags": [
             "wheat",
@@ -9074,7 +9073,7 @@
            ]
           },
           {
-           "name": "Vegan French Toast",
+           "name": "French Toast Sticks",
            "tags": [
             "wheat",
             "soybeans",
@@ -9235,21 +9234,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Minestrone Soup",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Tomato Bisque Soup",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
             "vegetarian-option",
@@ -9259,6 +9244,16 @@
             "Milk",
             "Vegetarian Option",
             "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cauliflower Masala Soup",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -9607,6 +9602,44 @@
          "name": "Dessert",
          "items": [
           {
+           "name": "Assorted Mini Donuts",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mini Butter Croissant",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Mini Assorted Danish",
            "tags": [
             "milk",
@@ -9660,6 +9693,64 @@
             "Soybeans",
             "Gluten",
             "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Carrot Cake",
+           "tags": [
+            "milk",
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Triple Berry Crumble Bar",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "kosher"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Lemon Sugar Cookies",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
             "Halal",
             "Low Carbon Footprint"
            ]
@@ -9828,6 +9919,70 @@
          ]
         },
         {
+         "name": "While It Last Centerplate",
+         "items": [
+          {
+           "name": "Harissa Roasted Chicken",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Celebration \"Roast\"",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Creamy Mushroom Gravy",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Parsley Potato",
+           "tags": [
+            "soybeans",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Roasted Zucchini Mushroom",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
          "name": "Pasta",
          "items": [
           {
@@ -9965,21 +10120,7 @@
          "name": "Soup",
          "items": [
           {
-           "name": "Minestrone Soup",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Tomato Bisque Soup",
+           "name": "Broccoli Cheddar Soup",
            "tags": [
             "milk",
             "vegetarian-option",
@@ -9989,6 +10130,16 @@
             "Milk",
             "Vegetarian Option",
             "Halal",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Cauliflower Masala Soup",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -10478,7 +10629,43 @@
          "name": "Dessert",
          "items": [
           {
+           "name": "Pecan Pie",
+           "tags": [
+            "egg",
+            "tree-nuts",
+            "wheat",
+            "gluten",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Egg",
+            "Tree Nuts",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
            "name": "Apple Pie",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Lemon Sugar Cookies",
            "tags": [
             "wheat",
             "gluten",
@@ -10516,22 +10703,22 @@
            ]
           },
           {
-           "name": "Strawberry Shortcake",
+           "name": "Triple Berry Crumble Bar",
            "tags": [
             "milk",
-            "egg",
             "wheat",
+            "soybeans",
             "gluten",
             "vegetarian-option",
-            "halal"
+            "kosher"
            ],
            "icons": [
             "Milk",
-            "Egg",
             "Wheat",
+            "Soybeans",
             "Gluten",
             "Vegetarian Option",
-            "Halal",
+            "Kosher",
             "Low Carbon Footprint"
            ]
           }
@@ -12852,16 +13039,6 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "BBQ Braised Beef Brisket",
-           "tags": [
-            "kosher"
-           ],
-           "icons": [
-            "Kosher",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Roasted Red Potatoes with Garlic",
            "tags": [
             "vegan-option"
@@ -12891,6 +13068,26 @@
            ],
            "icons": [
             "Alcohol",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Kosher Herb Roasted Beef",
+           "tags": [
+            "kosher"
+           ],
+           "icons": [
+            "Kosher",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "BBQ Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15801,11 +15998,33 @@
          "name": "Allergen Friendly",
          "items": [
           {
+           "name": "Broccoli Beef",
+           "tags": [
+            "soybeans"
+           ],
+           "icons": [
+            "Soybeans",
+            "High Carbon Footprint"
+           ]
+          },
+          {
            "name": "Vegan \"sausage\" Mixed Pepper Stir Fry",
            "tags": [
             "vegan-option"
            ],
            "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Brown Rice",
+           "tags": [
+            "vegan-option",
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -15832,28 +16051,6 @@
           },
           {
            "name": "Baby Spinach",
-           "tags": [
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Broccoli Beef",
-           "tags": [
-            "soybeans"
-           ],
-           "icons": [
-            "Soybeans",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Brown Rice",
            "tags": [
             "vegan-option",
             "vegan-option"
