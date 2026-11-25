@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:37:12-08:00",
+ "generated_at": "2026-11-25T11:18:24-08:00",
  "dates": [
   {
    "date": "20261124",
@@ -7159,7 +7159,7 @@
      "name": "The Eateries at Student Union",
      "status": "Now Closed",
      "hours": [
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 1:00 p.m."
      ],
      "meals": [
       {
@@ -7882,7 +7882,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -8572,7 +8572,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 4:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -9113,7 +9113,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -9557,7 +9557,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -10227,21 +10227,27 @@
            ]
           },
           {
-           "name": "Assorted Dinner Rolls",
+           "name": "Asparagus",
            "tags": [
-            "wheat",
-            "gluten",
             "vegan-option"
            ],
            "icons": [
-            "Wheat",
-            "Gluten",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Halal Chipotle Sauce",
+           "name": "Lentil Bolognese Sauce",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Alfredo Sauce",
            "tags": [
             "milk",
             "wheat",
@@ -10259,22 +10265,22 @@
            ]
           },
           {
-           "name": "Marinara Sauce",
+           "name": "Garlic Toast",
            "tags": [
-            "vegan-option"
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegetarian-option",
+            "halal"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Asparagus",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegetarian Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -10774,7 +10780,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -11836,7 +11842,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -13066,7 +13072,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -13730,6 +13736,16 @@
             "Vegetarian Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Maple Roasted Delicata Squash",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -13751,13 +13767,15 @@
            ]
           },
           {
-           "name": "Beef Bolognese Sauce",
+           "name": "Shrimp Pesto Alfredo Sauce",
            "tags": [
-            "milk"
+            "milk",
+            "shellfish"
            ],
            "icons": [
             "Milk",
-            "Medium Carbon Footprint"
+            "Shellfish",
+            "High Carbon Footprint"
            ]
           },
           {
@@ -13771,7 +13789,7 @@
            ]
           },
           {
-           "name": "Cumin Roasted Cauliflower",
+           "name": "Steamed Broccoli",
            "tags": [
             "vegan-option"
            ],
@@ -13786,10 +13804,13 @@
          "name": "Pure Plates",
          "items": [
           {
-           "name": "Chipotle Turkey Breast",
-           "tags": [],
+           "name": "Broccoli Beef",
+           "tags": [
+            "soybeans"
+           ],
            "icons": [
-            "Medium Carbon Footprint"
+            "Soybeans",
+            "High Carbon Footprint"
            ]
           },
           {
@@ -13803,7 +13824,7 @@
            ]
           },
           {
-           "name": "Quinoa",
+           "name": "Basmati Rice",
            "tags": [
             "vegan-option"
            ],
@@ -13871,9 +13892,9 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 1:00 p.m."
      ],
      "meals": [
       {
@@ -14593,10 +14614,10 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -15256,9 +15277,9 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
-      "7:00 a.m. - 8:00 p.m."
+      "7:00 a.m. - 3:00 p.m."
      ],
      "meals": [
       {
@@ -15283,10 +15304,10 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 4:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -15824,10 +15845,10 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Closed",
+     "status": "Now Open",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -29388,7 +29409,7 @@
      "name": "The Eateries at Student Union",
      "status": "Now Closed",
      "hours": [
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 1:00 p.m."
      ],
      "meals": [
       {
@@ -30106,12 +30127,527 @@
      ]
     },
     {
+     "slug": "the-golden-bear-caf",
+     "name": "The Golden Bear Café",
+     "status": "Now Closed",
+     "hours": [
+      "7:30 a.m. - 10:59 a.m.",
+      "11:00 a.m. - 7:00 p.m."
+     ],
+     "meals": [
+      {
+       "name": "Fall - Breakfast (ends at 10:30)",
+       "categories": [
+        {
+         "name": "Mains",
+         "items": [
+          {
+           "name": "Chorizo Breakfast Burrito",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Ham Egg and Cheese Croissant Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Egg and Cheese Croissant Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Breakfast Burrito",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chorizo Just Egg Breakfast Burrito",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Sides",
+         "items": [
+          {
+           "name": "Hashbrown Patties",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Large Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Fall - Lunch",
+       "categories": [
+        {
+         "name": "Grill",
+         "items": [
+          {
+           "name": "Beef Cheese Burger",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spicy Fried Chicken Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Philly Beef Cheesesteak Sandwich",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Salmon Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "fish",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Fish",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Beyond Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Fries",
+         "items": [
+          {
+           "name": "Loaded Chicken Buffalo Bacon and Cheddar Fries",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Loaded Beef Bulgogi and Kim Chi Fries",
+           "tags": [
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "sesame"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Sesame",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Tenders and Fries",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plant Based Tenders with Crinkle Fries",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bowls",
+         "items": [
+          {
+           "name": "Grain Bowl with Orange Poppy Dressing",
+           "tags": [
+            "egg",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mapo Tofu Rice Bowl",
+           "tags": [
+            "soybeans",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Seared Salmon",
+           "tags": [
+            "fish"
+           ],
+           "icons": [
+            "Fish",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Grilled Chicken Strip",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mapo Tofu",
+           "tags": [
+            "soybeans",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Salads",
+         "items": [
+          {
+           "name": "Buffalo Chicken Bacon and Ranch Salad",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "California Greens Salad",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Sides",
+         "items": [
+          {
+           "name": "Crinkle Potato Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Small Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Large Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Side of Mixed Greens Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Balsamic Vinaigrette",
+           "tags": [
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Caesar",
+           "tags": [
+            "milk",
+            "egg",
+            "fish",
+            "soybeans"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Fish",
+            "Soybeans",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Italian",
+           "tags": [
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Ranch",
+           "tags": [
+            "milk",
+            "egg",
+            "soybeans",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Soybeans",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
      "slug": "local-x-design",
      "name": "Local x Design",
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -30811,7 +31347,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 4:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -31352,7 +31888,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -39014,7 +39550,7 @@
      "name": "The Eateries at Student Union",
      "status": "Now Closed",
      "hours": [
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 1:00 p.m."
      ],
      "meals": [
       {
@@ -39732,12 +40268,527 @@
      ]
     },
     {
+     "slug": "the-golden-bear-caf",
+     "name": "The Golden Bear Café",
+     "status": "Now Closed",
+     "hours": [
+      "7:30 a.m. - 10:59 a.m.",
+      "11:00 a.m. - 7:00 p.m."
+     ],
+     "meals": [
+      {
+       "name": "Fall - Breakfast (ends at 10:30)",
+       "categories": [
+        {
+         "name": "Mains",
+         "items": [
+          {
+           "name": "Chorizo Breakfast Burrito",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Ham Egg and Cheese Croissant Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Egg and Cheese Croissant Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Breakfast Burrito",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Chorizo Just Egg Breakfast Burrito",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Sides",
+         "items": [
+          {
+           "name": "Hashbrown Patties",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Large Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Fall - Lunch",
+       "categories": [
+        {
+         "name": "Grill",
+         "items": [
+          {
+           "name": "Beef Cheese Burger",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Spicy Fried Chicken Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Philly Beef Cheesesteak Sandwich",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Salmon Sandwich",
+           "tags": [
+            "milk",
+            "egg",
+            "fish",
+            "wheat",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Fish",
+            "Wheat",
+            "Gluten",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Vegan Beyond Burger",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Fries",
+         "items": [
+          {
+           "name": "Loaded Chicken Buffalo Bacon and Cheddar Fries",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Loaded Beef Bulgogi and Kim Chi Fries",
+           "tags": [
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "alcohol",
+            "sesame"
+           ],
+           "icons": [
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Alcohol",
+            "Sesame",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Chicken Tenders and Fries",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Plant Based Tenders with Crinkle Fries",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Bowls",
+         "items": [
+          {
+           "name": "Grain Bowl with Orange Poppy Dressing",
+           "tags": [
+            "egg",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Egg",
+            "Gluten",
+            "Vegetarian Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mapo Tofu Rice Bowl",
+           "tags": [
+            "soybeans",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Seared Salmon",
+           "tags": [
+            "fish"
+           ],
+           "icons": [
+            "Fish",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Grilled Chicken Strip",
+           "tags": [],
+           "icons": [
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Mapo Tofu",
+           "tags": [
+            "soybeans",
+            "alcohol",
+            "sesame",
+            "vegan-option"
+           ],
+           "icons": [
+            "Soybeans",
+            "Alcohol",
+            "Sesame",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Salads",
+         "items": [
+          {
+           "name": "Buffalo Chicken Bacon and Ranch Salad",
+           "tags": [
+            "milk",
+            "egg",
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Medium Carbon Footprint"
+           ]
+          },
+          {
+           "name": "California Greens Salad",
+           "tags": [
+            "milk",
+            "wheat",
+            "gluten",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Gluten",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Sides",
+         "items": [
+          {
+           "name": "Small Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Crinkle Fries",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Large Fruit Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Side of Mixed Greens Salad",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Balsamic Vinaigrette",
+           "tags": [
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Caesar",
+           "tags": [
+            "milk",
+            "egg",
+            "fish",
+            "soybeans"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Fish",
+            "Soybeans",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Italian",
+           "tags": [
+            "vegan-option",
+            "halal"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Choice of Dressing: Ranch",
+           "tags": [
+            "milk",
+            "egg",
+            "soybeans",
+            "vegetarian-option",
+            "halal"
+           ],
+           "icons": [
+            "Milk",
+            "Egg",
+            "Soybeans",
+            "Vegetarian Option",
+            "Halal",
+            "Medium Carbon Footprint"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
      "slug": "local-x-design",
      "name": "Local x Design",
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -40427,7 +41478,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 4:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
@@ -40968,7 +42019,7 @@
      "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
-      "11:00 a.m. - 6:00 p.m."
+      "11:00 a.m. - 2:00 p.m."
      ],
      "meals": [
       {
