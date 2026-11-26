@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T11:18:24-08:00",
+ "generated_at": "2026-11-25T19:35:12-08:00",
  "dates": [
   {
    "date": "20261124",
@@ -8544,7 +8544,7 @@
      "name": "The Den",
      "status": "Now Closed",
      "hours": [
-      "7:00 a.m. - 8:00 p.m."
+      "7:00 a.m. - 3:00 p.m."
      ],
      "meals": [
       {
@@ -9557,7 +9557,7 @@
     {
      "slug": "caf-3",
      "name": "Café 3",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -10780,7 +10780,7 @@
     {
      "slug": "clark-kerr",
      "name": "Clark Kerr",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -11842,7 +11842,7 @@
     {
      "slug": "crossroads",
      "name": "Crossroads",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 4:00 p.m."
@@ -12104,42 +12104,12 @@
          "name": "Centerplate",
          "items": [
           {
-           "name": "Chicken Enchiladas with Red Sauce",
-           "tags": [
-            "milk",
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Milk",
-            "Wheat",
-            "Soybeans",
-            "Gluten",
-            "High Carbon Footprint"
-           ]
-          },
-          {
            "name": "Shrimp Ceviche Tostada",
            "tags": [
             "shellfish"
            ],
            "icons": [
             "Shellfish",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Vegan Pozole",
-           "tags": [
-            "wheat",
-            "soybeans",
-            "gluten"
-           ],
-           "icons": [
-            "Wheat",
-            "Soybeans",
-            "Gluten",
             "Low Carbon Footprint"
            ]
           },
@@ -12164,67 +12134,34 @@
            ]
           },
           {
-           "name": "Succotash Edamame Corn",
+           "name": "Tofu Fajita",
            "tags": [
             "soybeans",
-            "vegan-option"
+            "vegan-option",
+            "halal"
            ],
            "icons": [
             "Soybeans",
             "Vegan Option",
+            "Halal",
             "Low Carbon Footprint"
            ]
           },
           {
-           "name": "Onion and Cilantro",
-           "tags": [
-            "vegan-option"
-           ],
+           "name": "Ancho Lime Chicken",
+           "tags": [],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Medium Carbon Footprint"
            ]
           },
           {
-           "name": "Shredded Green Cabbage",
+           "name": "Halal Chicken Thigh",
            "tags": [
-            "vegan-option"
+            "halal"
            ],
            "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sliced Radish",
-           "tags": [
-            "vegan-option",
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lemon",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Lime Wedges",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
+            "Halal",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -12232,40 +12169,6 @@
         {
          "name": "Lemongrass",
          "items": [
-          {
-           "name": "Panang Beef Curry",
-           "tags": [
-            "fish",
-            "shellfish"
-           ],
-           "icons": [
-            "Fish",
-            "Shellfish",
-            "High Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Martha Stewart's Vibrant Green Broccoli Curry",
-           "tags": [
-            "shellfish",
-            "soybeans"
-           ],
-           "icons": [
-            "Shellfish",
-            "Soybeans",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Brown Rice and Quinoa",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Sweet Chili Roasted Brussels Sprouts",
            "tags": [
@@ -12293,6 +12196,48 @@
             "Vegan Option",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Lemongrass Pork Chop",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "pork"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Pork",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Jasmine Rice",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Baked Lemongrass Tofu",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
           }
          ]
         },
@@ -12316,29 +12261,43 @@
            ]
           },
           {
-           "name": "PoBoy Catfish Sandwich",
+           "name": "Shrimp PoBoy Sandwich",
            "tags": [
+            "milk",
             "egg",
-            "fish",
+            "shellfish",
             "wheat",
             "gluten"
            ],
            "icons": [
+            "Milk",
             "Egg",
-            "Fish",
+            "Shellfish",
             "Wheat",
             "Gluten",
-            "Medium Carbon Footprint"
+            "High Carbon Footprint"
            ]
           },
           {
-           "name": "Housemade Cajun Potato Chips",
+           "name": "Seasoned Roasted Potatoes",
            "tags": [
             "vegan-option"
            ],
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Nacho Cheese Sauce",
+           "tags": [
+            "milk",
+            "vegetarian-option"
+           ],
+           "icons": [
+            "Milk",
+            "Vegetarian Option",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -12346,50 +12305,6 @@
         {
          "name": "Pasta",
          "items": [
-          {
-           "name": "Orechiette Pasta",
-           "tags": [
-            "wheat",
-            "gluten",
-            "vegan-option"
-           ],
-           "icons": [
-            "Wheat",
-            "Gluten",
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Chicken Alfredo Sauce",
-           "tags": [
-            "milk"
-           ],
-           "icons": [
-            "Milk",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Marinara Sauce",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
-           "name": "Sauteed Zucchini & Onion Sauteed",
-           "tags": [
-            "vegan-option"
-           ],
-           "icons": [
-            "Vegan Option",
-            "Low Carbon Footprint"
-           ]
-          },
           {
            "name": "Hawaiian Dinner Roll",
            "tags": [
@@ -12409,6 +12324,46 @@
             "Gluten",
             "Vegetarian Option",
             "Halal",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Alex Guaranschelli's Penne Arrabbiata",
+           "tags": [
+            "wheat",
+            "gluten",
+            "vegan-option"
+           ],
+           "icons": [
+            "Wheat",
+            "Gluten",
+            "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Meat Lasagna",
+           "tags": [
+            "milk",
+            "wheat",
+            "soybeans",
+            "gluten"
+           ],
+           "icons": [
+            "Milk",
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "High Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Steamed Broccoli Cauliflower and Carrots",
+           "tags": [
+            "vegan-option"
+           ],
+           "icons": [
+            "Vegan Option",
             "Low Carbon Footprint"
            ]
           }
@@ -12458,7 +12413,7 @@
            ]
           },
           {
-           "name": "Stir Fried Cabbage",
+           "name": "Brussels Sprouts",
            "tags": [
             "vegan-option"
            ],
@@ -12468,7 +12423,7 @@
            ]
           },
           {
-           "name": "Roasted Cherry Tomato",
+           "name": "Roasted Peppers",
            "tags": [
             "vegan-option"
            ],
@@ -12624,11 +12579,9 @@
           {
            "name": "Sliced Radish",
            "tags": [
-            "vegan-option",
             "vegan-option"
            ],
            "icons": [
-            "Vegan Option",
             "Vegan Option",
             "Low Carbon Footprint"
            ]
@@ -13072,7 +13025,7 @@
     {
      "slug": "foothill",
      "name": "Foothill",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 10:00 a.m.",
       "11:00 a.m. - 3:00 p.m."
@@ -13618,7 +13571,7 @@
            ]
           },
           {
-           "name": "Split Pea Soup",
+           "name": "Tuscan Mushroom Bean Soup",
            "tags": [
             "vegan-option"
            ],
@@ -13745,6 +13698,22 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Beef Hot Dog",
+           "tags": [
+            "wheat",
+            "soybeans",
+            "gluten",
+            "sesame"
+           ],
+           "icons": [
+            "Wheat",
+            "Soybeans",
+            "Gluten",
+            "Sesame",
+            "Medium Carbon Footprint"
            ]
           }
          ]
@@ -13892,7 +13861,7 @@
     {
      "slug": "the-eateries-at-student-union",
      "name": "The Eateries at Student Union",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "11:00 a.m. - 1:00 p.m."
      ],
@@ -14614,7 +14583,7 @@
     {
      "slug": "local-x-design",
      "name": "Local x Design",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 2:00 p.m."
@@ -15277,7 +15246,7 @@
     {
      "slug": "the-den",
      "name": "The Den",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "7:00 a.m. - 3:00 p.m."
      ],
@@ -15304,7 +15273,7 @@
     {
      "slug": "qualcomm-caf",
      "name": "Qualcomm Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 2:00 p.m."
@@ -15845,7 +15814,7 @@
     {
      "slug": "gateway-caf",
      "name": "Gateway Café",
-     "status": "Now Open",
+     "status": "Now Closed",
      "hours": [
       "8:00 a.m. - 10:30 a.m.",
       "11:00 a.m. - 2:00 p.m."
@@ -16314,16 +16283,6 @@
          "name": "Center Plate",
          "items": [
           {
-           "name": "Halal Mediterranean Baked Chicken Breast",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Low Carbon Footprint"
-           ]
-          },
-          {
            "name": "White Bean Ragu Polenta Cakes",
            "tags": [
             "soybeans",
@@ -16367,6 +16326,16 @@
            "icons": [
             "Vegan Option",
             "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chimichuri Grilled Tri Tip",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
+            "High Carbon Footprint"
            ]
           }
          ]
@@ -16434,16 +16403,6 @@
          "name": "Kosher Station",
          "items": [
           {
-           "name": "Kosher Paprika Grilled Chicken Breast",
-           "tags": [
-            "kosher"
-           ],
-           "icons": [
-            "Kosher",
-            "Medium Carbon Footprint"
-           ]
-          },
-          {
            "name": "Egg Pasta Noodle",
            "tags": [
             "egg",
@@ -16484,22 +16443,22 @@
             "Kosher",
             "Low Carbon Footprint"
            ]
+          },
+          {
+           "name": "Kosher Chicken Fajita",
+           "tags": [
+            "kosher"
+           ],
+           "icons": [
+            "Kosher",
+            "Medium Carbon Footprint"
+           ]
           }
          ]
         },
         {
          "name": "Allergen Friendly",
          "items": [
-          {
-           "name": "Halal North African-style Roasted Chicken",
-           "tags": [
-            "halal"
-           ],
-           "icons": [
-            "Halal",
-            "Medium Carbon Footprint"
-           ]
-          },
           {
            "name": "Kidney Beans",
            "tags": [
@@ -16547,6 +16506,16 @@
            ],
            "icons": [
             "Vegan Option",
+            "Low Carbon Footprint"
+           ]
+          },
+          {
+           "name": "Halal Chicken Breast",
+           "tags": [
+            "halal"
+           ],
+           "icons": [
+            "Halal",
             "Low Carbon Footprint"
            ]
           }
@@ -31319,7 +31288,7 @@
      "name": "The Den",
      "status": "Now Closed",
      "hours": [
-      "7:00 a.m. - 8:00 p.m."
+      "7:00 a.m. - 3:00 p.m."
      ],
      "meals": [
       {
@@ -41450,7 +41419,7 @@
      "name": "The Den",
      "status": "Now Closed",
      "hours": [
-      "7:00 a.m. - 8:00 p.m."
+      "7:00 a.m. - 3:00 p.m."
      ],
      "meals": [
       {
